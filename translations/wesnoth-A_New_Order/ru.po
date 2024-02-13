@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-15 04:51 UTC\n"
-"PO-Revision-Date: 2024-02-13 01:05+0300\n"
+"PO-Revision-Date: 2024-02-13 09:30+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -1119,13 +1119,12 @@ msgstr "Милильдур"
 #. The message 'I fought with you for so many battles...' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
 #: A_New_Order/macros/elvish_macros.cfg:80
 #: A_New_Order/macros/elvish_macros.cfg:97
-#, fuzzy
 msgid ""
 "My lord, I fought with you for so many battles... I can accept money from "
 "you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
-"Милорд, мы сражались плечом к плечу в столь многих битвах... Я больше не "
-"могу принимать от вас плату. Прошу считать меня своим другом, а не наёмным "
+"Милорд, мы сражались плечом к плечу во многих битвах... Я больше не "
+"буду принимать от вас плату. Прошу считать меня своим другом, а не наёмным "
 "солдатом."
 
 #. [event]
