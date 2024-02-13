@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-15 04:51 UTC\n"
-"PO-Revision-Date: 2024-02-13 09:52+0300\n"
+"PO-Revision-Date: 2024-02-14 02:05+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -1094,7 +1094,6 @@ msgstr "Смотри как бесстрашно умирают эльфы!"
 #. [message]: speaker=unit
 #. Elorain, female Elf
 #: A_New_Order/macros/elvish_macros.cfg:35
-#, fuzzy
 msgid "Now, I will meet the best marksman... Death never misses."
 msgstr "Вот я и встретила лучшего стрелка... Смерть никогда не промахивается."
 
@@ -1119,13 +1118,12 @@ msgstr "Милильдур"
 #. The message 'I fought with you for so many battles...' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
 #: A_New_Order/macros/elvish_macros.cfg:80
 #: A_New_Order/macros/elvish_macros.cfg:97
-#, fuzzy
 msgid ""
 "My lord, I fought with you for so many battles... I can accept money from "
 "you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 "Милорд, мы сражались плечом к плечу в столь многих битвах... Я больше не "
-"могу принимать от вас плату. Прошу считать меня своим другом, а не наёмным "
+"возьму у вас деньги. Прошу считать меня своим другом, а не наёмным "
 "солдатом."
 
 #. [event]
@@ -1141,7 +1139,7 @@ msgstr "Элорайн"
 #. a more phonetic spelling of "Ahem" (noise made when clearing one's throat):
 #: A_New_Order/macros/elvish_macros.cfg:133
 msgid "Ekhem."
-msgstr "Экхем"
+msgstr "Кхм."
 
 #. [event]
 #. [then]
@@ -1188,12 +1186,12 @@ msgstr "Что?"
 #. Gawen is speaking to Kyobaine, an elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
 #: A_New_Order/macros/elvish_macros.cfg:137
 msgid "Well, you fought with me so many battles..."
-msgstr ""
+msgstr "Ну, мы сражались плечом к плечу в столь многих битвах..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:139
 msgid "...Aaand?"
-msgstr ""
+msgstr "И-и?"
 
 #. [event]
 #. again, see previously:
@@ -1202,17 +1200,19 @@ msgid ""
 "Well, you know, I thought that I should no longer treat you like a hired "
 "soldier..."
 msgstr ""
+"Ну, это... Думаю, я больше не должен относиться к тебе как к наёмному"
+" солдату...."
 
 #. [event]
 #. "ask me out" as in, on a date:
 #: A_New_Order/macros/elvish_macros.cfg:144
 msgid "What?!? Are you trying to ask me out or something?"
-msgstr ""
+msgstr "Что?! Вы пытаетесь позвать меня на свидание, или что-то в этом роде?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:145
 msgid "...Eee?"
-msgstr ""
+msgstr "М-м?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:146
@@ -1222,6 +1222,9 @@ msgid ""
 "Good. Let's get back to the business. And don't forget about my 20 gold "
 "pieces."
 msgstr ""
+"Не обижайтесь, но... Не то, чтобы я была против мужчин вообще. Просто я"
+" предпочитаю менее заросших. И менее... людей. Что-то ещё? Нет? Хорошо."
+" Давайте вернёмся к делам. И не забудьте про мои 20 золотых."
 
 #. [event]
 #. Kyobaine advances to Elvish Druid
@@ -1229,13 +1232,13 @@ msgstr ""
 msgid ""
 "How on earth I am supposed to walk in these clothes during winter? It's "
 "frigging cold!"
-msgstr ""
+msgstr "И как Вы мне прикажете ходить в этом зимой? Чертовски холодно!"
 
 #. [then]
 #. Gawen speaking to Kyobaine:
 #: A_New_Order/macros/elvish_macros.cfg:175
 msgid "But you're wearing snowshoes though."
-msgstr ""
+msgstr "Ну, у тебя по крайней мере есть снегоступы."
 
 #. [then]
 #. Kyobaine speaking to Gawen:
@@ -1251,13 +1254,12 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:197
 msgid ""
 "Oooh, no. I refuse to fight in these conditions, as long as I'm clad as such."
-msgstr ""
+msgstr "Ну, нет. Я отказываюсь воевать в таких условиях, пока я так одета."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:198
-#, fuzzy
 msgid "What do you mean? Your clothes are just fine."
-msgstr "Что вы имеете в виду?"
+msgstr "Что ты имеешь в виду? Ты замечательно одета."
 
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
@@ -1267,19 +1269,22 @@ msgid ""
 "you can do is to give me a proper cloak. You expect me to fight when I'm "
 "shivering and have goosebumps??"
 msgstr ""
+"Не считая снегоступов, я одета <i>для весны</i>. Вы по крайней мере могли бы"
+" достать мне подходящую накидку. Вы хотите, чтобы я воевала дрожащая и"
+" покрытая гусиной кожей?"
 
 #. [then]
 #. [else]
 #: A_New_Order/macros/elvish_macros.cfg:208
 #: A_New_Order/macros/elvish_macros.cfg:217
 msgid "That's ridiculous."
-msgstr ""
+msgstr "Как всё сложно."
 
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
 #: A_New_Order/macros/elvish_macros.cfg:211
 msgid "I couldn't agree more. Call me when you have a new cloak."
-msgstr ""
+msgstr "Я отказываюсь воевать. Позовите, когда найдёте новую накидку."
 
 #. [else]
 #. the old version of Kyobaine's request to Gawen:
@@ -1288,12 +1293,14 @@ msgid ""
 "<i>For the spring</i>. The least you can do is to give me proper shoes. You "
 "expect me to walk in this snow <i>barefoot</i>??"
 msgstr ""
+"<i>Для весны</i>. Дайте мне хотя бы подходящую обувь. Вы хотите, чтобы я шла"
+" по этому снегу <i>босой</i>?"
 
 #. [else]
 #. the old version of Kyobaine's request to Gawen:
 #: A_New_Order/macros/elvish_macros.cfg:220
 msgid "I couldn't agree more. Call me when you have new shoes."
-msgstr ""
+msgstr "Я отказываюсь воевать. Позовите, когда найдёте подходящую обувь."
 
 #. [event]
 #. [scenario]: id=25_The_Awakening
@@ -1317,13 +1324,12 @@ msgstr "Ну..."
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:225
 msgid "All right, how about I give you 25 gold pieces instead of 20?"
-msgstr ""
+msgstr "Хорошо, а если я буду платить 25 золотых вместо 20?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:226
-#, fuzzy
 msgid "All right, we will wait for the spring."
-msgstr "Хорошо, я согласен."
+msgstr "Хорошо, подождём до весны."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:228
@@ -1331,21 +1337,23 @@ msgid ""
 "You think you can bribe me, an elvish druid, with gold? Oh well. This will "
 "allow me to buy better winter clothes."
 msgstr ""
+"Вы считаете, что можете подкупить меня, эльфийскую друидку, золотом?! Ну,"
+" хорошо. Тогда я смогу купить себе приличную зимнюю одежду."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:229
 msgid "Maybe I should act gentlemanly here?"
-msgstr ""
+msgstr "Может стоит поступить как джентльмену?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:230
 msgid "(Offer to get the clothes for her - longer conversation)"
-msgstr ""
+msgstr "(Предложить поискать для неё одежду; придётся поуговаривать)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:231
 msgid "(Let her get the clothes herself - end event more quickly)"
-msgstr ""
+msgstr "(Дай ей купить одежду самой, и покончить с этим вопросом)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:233
@@ -1353,6 +1361,8 @@ msgid ""
 "Are you sure you wouldn't prefer it if I went and bought you better winter "
 "clothes instead? That way you could stay by a campfire while you wait."
 msgstr ""
+"Может лучше мне пойти и раздобыть зимнюю одежду получше? А ты могла бы"
+" подождать здесь у костра."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:234
@@ -1361,6 +1371,9 @@ msgid ""
 "this. Someone with judgment like that can hardly be expected to correctly "
 "purchase the clothes I require."
 msgstr ""
+"Честно говоря, я Вам не доверяю после того, как Вы призвали меня сюда в такие"
+" условия. Трудно ожидать разборчивости в одежде от человека с такими"
+" суждениями."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:235
@@ -1368,6 +1381,8 @@ msgid ""
 "What, do you require them in a particular size or something? What are your "
 "measurements?"
 msgstr ""
+"А что, нужен какой-то особый размер, или что-то в этом роде? Кстати, какой у"
+" тебя размер?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:236
@@ -1375,26 +1390,28 @@ msgid ""
 "My... measurements? What do you mean by that? Do you mean you humans measure "
 "yourselves before deciding what clothing to purchase?"
 msgstr ""
+"Какой... размер? Что это значит? Вы имеете в виду, что люди измеряют себя"
+" перед тем, как выбрать одежду?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:237
 msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
-msgstr ""
+msgstr "Я имею в виду именно это. А как эльфы узнают, что одежда им подойдёт?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:238
 msgid "Why, we simply wander the woods hugging trees until -"
-msgstr ""
+msgstr "Да мы просто бродим по лесу, обнимая деревья, пока..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:239
 msgid "Wait, hold up, you literally HUG TREES?!"
-msgstr ""
+msgstr "Подожди-подожди. Вы буквально ОБНИМАЕТЕ ДЕРЕВЬЯ?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:240
 msgid "Why yes, of course, haven't you ever tried it?"
-msgstr ""
+msgstr "Ну конечно, а вы разве нет?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:241
@@ -1404,6 +1421,9 @@ msgid ""
 "and thus the only interaction we are allowed to have with trees is chopping "
 "them down."
 msgstr ""
+"Это очень смешно! (*<i>задыхается от смеха</i>*) Отвечая на твой вопрос: мы —"
+" нет. Акладианы учат своих детей опасаться деревьев, поэтому единственное,"
+" что мы делаем с деревьями, мы делаем топором."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:242
@@ -1414,6 +1434,11 @@ msgid ""
 "around it return our embrace in a way that feels just right, and then the "
 "vines will form new clothes for us based on this experience."
 msgstr ""
+"Какой ужас! Вам совершенно необходимо хотя бы раз обняться с деревом для"
+" Вашего же собственного блага. Возвращаясь к предыдущему вопросу, когда нам"
+" нужно убедиться, что одежда нам подойдёт, мы бродим по лесу, обнимая"
+" деревья, пока одно из них не позволит растущей вокруг лозе обнять нас в"
+" ответ. Лоза всё запоминает и складывается в новую одежду."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:243
@@ -1422,11 +1447,14 @@ msgid ""
 "vines that would really feel up to that... Could you please try the human "
 "measurement system instead just this one time?"
 msgstr ""
+"Хорошо, но сейчас зима, и я не думаю, что на каком-то дереве в округе"
+" найдётся подходящая лоза... Может на этот раз попробуешь снять мерку"
+" по-человечески?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:244
 msgid "All right, what measurements do you require? The length of my ears?"
-msgstr ""
+msgstr "Ну, хорошо. Что нужно измерить? Длину моих ушей?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:245
@@ -1435,21 +1463,24 @@ msgid ""
 "better to have one of your fellow females explain this to you... look, there "
 "are Lorin and Karen over there; let's go ask one of them."
 msgstr ""
+"Нет, нужно... М-м... Э... (*<i>краснеет</i>*)... Знаешь, может будет лучше,"
+" если одна из твоих подруг объяснит... А! Вот Лорин и Карен, пойдём, спросим"
+" у них."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:246
 msgid "Let's ask..."
-msgstr ""
+msgstr "Пойдём, спросим..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:247
 msgid "person_to_ask^Lorin."
-msgstr ""
+msgstr "Лорин"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:248
 msgid "person_to_ask^Karen."
-msgstr ""
+msgstr "Карен"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:250
@@ -1457,17 +1488,19 @@ msgid ""
 "Hi, mother, I was just wondering if you could help explain human "
 "measurements to Kyobaine here?"
 msgstr ""
+"Привет, мама, у меня есть просьба: не могла бы ты рассказать Киобейн, как мы"
+" снимаем мерку?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:251
 msgid ""
 "Measurements? You mean like how far I can drive my knife into someone's back?"
-msgstr ""
+msgstr "Мерку? В смысле, как глубоко я могу погрузить свой нож в чью-то спину?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:252
 msgid "No, of course not! I meant for clothing."
-msgstr ""
+msgstr "Нет, конечно, нет! Я имел в виду мерку для одежды."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:253
@@ -1477,6 +1510,8 @@ msgid ""
 "returned with the clothes, so that he can't go leaking my secrets to anyone "
 "else."
 msgstr ""
+"Ах, ЭТУ мерку. Я сама не помню. Обычно я поручала сделать это убогому слуге,"
+" а когда он приносил одежду, убивала его, чтобы он не выдал мои секреты."
 
 #. [event]
 #. [scenario]: id=14b_Bontom
@@ -1494,6 +1529,8 @@ msgid ""
 "You know what, forget I asked. Kyobaine, maybe you should just go get your "
 "own clothes after all."
 msgstr ""
+"Вот что, забудь, что я спросил. Киобейн, думаю, тебе стоит найти себе одежду"
+" самой."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:257
@@ -1501,6 +1538,8 @@ msgid ""
 "Well that was a waste of time. All that talk just to get back to what my "
 "original plan was in the first place..."
 msgstr ""
+"Только время потратили. Столько разговоров только для того, чтобы сделать то,"
+" что я предлагала с самого начала."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:260
@@ -1508,16 +1547,18 @@ msgid ""
 "Hey Karen, I was just wondering if you could help explain human clothing "
 "measurements to Kyobaine here?"
 msgstr ""
+"Слушай, Карен, у меня есть просьба: не могла бы ты рассказать Киобейн, как мы"
+" снимаем мерку для одежды?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:261
 msgid "Oooh, clothes shopping, are we? Got a big date coming up, eh, Kyobaine?"
-msgstr ""
+msgstr "О-о, собираемся за покупками, да? Киобейн, предстоит важное свидание?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:262
 msgid "What? No! I'm just cold and need a cloak."
-msgstr ""
+msgstr "Что? Нет. Я просто замёрзла и хочу тёплую накидку."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:263
@@ -1526,21 +1567,23 @@ msgid ""
 "one-size-fits-all. Size info would really only be necessary if you were "
 "going to replace your entire robe."
 msgstr ""
+"Только накидку, и всё? Тебе для этого не нужны размеры. Они все подходят."
+" Размеры нужно знать только если собираешься поменять одежду целиком."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:264
 msgid "Oh. So, what was this fuss about sizes all about again? ...Gawen?"
-msgstr ""
+msgstr "Так, и к чему была вся эта возня с размерами, Гевен?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:265
 msgid "What? I was just trying to be helpful."
-msgstr ""
+msgstr "А что? Я просто хотел помочь."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:266
 msgid "(*<i>snickers</i>*)"
-msgstr ""
+msgstr "(*<i>фыркает</i>*)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:267
