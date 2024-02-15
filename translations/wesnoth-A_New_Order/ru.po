@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-15 04:51 UTC\n"
-"PO-Revision-Date: 2024-02-15 21:46+0300\n"
+"PO-Revision-Date: 2024-02-16 01:48+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -3711,7 +3711,7 @@ msgid ""
 msgstr ""
 "Ха-ха-ха! Мне плевать на тебя, убогий! Ничто уже не изменит тот факт, что я"
 " имел твою жену и всех твоих дочерей. Целую вечность твой дух будет бесцельно"
-" бродить пл землям предков, потому что у тебя не будет потомства и никто не"
+" бродить по землям предков, потому что у тебя не будет потомства и никто не"
 " сохранит память о тебе!"
 
 #. [event]
@@ -3740,7 +3740,7 @@ msgid ""
 "What did you mean, Ruvio? I won't allow you to punish Cryne's child for his "
 "father's sins."
 msgstr ""
-"Что ты имел в виду, Рувио? Я не дам тебе наказать сына Крайна за грехи его"
+"Что ты имел в виду, Рувио? Я не позволю тебе наказать сына Крайна за грехи его"
 " отца."
 
 #. [event]
@@ -16545,7 +16545,8 @@ msgid ""
 "Me? And who wanted to check whether the wine in Vakladia tastes different "
 "than in Guilcorta?"
 msgstr ""
-"Я? А кто решил проверить, правда ли вино в Вакладии вкуснее, чем в Гилькорте?"
+"Я? А кто решил проверить, действительно ли вино в Вакладии вкуснее, чем в"
+" Гилькорте?"
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:867
@@ -16837,7 +16838,7 @@ msgstr "Тогда я больше не буду спрашивать."
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1525
 msgid "Let me set up an outpost here."
-msgstr "Позвольте, я построю здесь укрепление."
+msgstr "Пожалуй, я построю здесь укрепление."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1550
