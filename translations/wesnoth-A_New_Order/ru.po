@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-15 04:51 UTC\n"
-"PO-Revision-Date: 2024-02-14 02:05+0300\n"
+"PO-Revision-Date: 2024-02-15 21:46+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -787,7 +787,7 @@ msgstr ""
 #. [advancement]: id=sword
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:23
 msgid "Sword"
-msgstr "меч"
+msgstr "Меч"
 
 #. [attack]: type=pierce
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:73
@@ -16369,8 +16369,9 @@ msgid ""
 "abandoned him."
 msgstr ""
 "Гевен со своей армией выступил из Ваттина. Бор Крайн не стал дожидаться."
-" Понимая, что его единственных шанс был в соединении с ордами Грекулака,"
-" надвигавшимися с востока, он покинул своё убежище со всеми силами, какие"
+" Он понимал, что его может спасти только соединение с ордами Грекулака,"
+" надвигавшимися с востока. Поэтому он покинул своё убежище со всеми силами,"
+" какие только"
 " смог собрать. Но к этому времени большинство акладианских лордов и большая"
 " часть орков уже покинули его."
 
@@ -16382,10 +16383,10 @@ msgid ""
 "generations to come - and also by vultures and jackals, who couldn't expect "
 "to see such an abundant number of bodies again for decades."
 msgstr ""
-"Две силы столкнулись на равнине, которую впоследствии назвали Ораннон, что"
-" по-акладиански значит \"поле битвы\". Этот день помнили многие будущие"
-" поколения, не говоря уже о грифах и шакалах, которые не думали ещё раз"
-" увидеть такие горы трупов в ближайшие десятилетия."
+"Обе силы столкнулись на равнине, которую впоследствии назвали Ораннон, что"
+" по-акладиански значит \"поле битвы\". Этот день вспоминали многие будущие"
+" поколения. Не говоря уже о грифах и шакалах, которым вряд ли довелось бы"
+" увидеть такие горы трупов в ближайшие несколько десятилетий."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:683
@@ -16407,12 +16408,12 @@ msgid ""
 msgstr ""
 "Милорд, разведчики докладывают, что Грекулак намного ближе, чем мы думали. Он"
 " всего лишь в четырёх днях пути отсюда, то есть для мёртвых — всего в двух,"
-" ведь они могут шагать без остановки днём и ночью."
+" ведь они могут идти без остановки днём и ночью."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:713
 msgid "Two days? It's impossible to defeat them within two days."
-msgstr "Два дня пути? За два дня мы их не одолеем."
+msgstr "Два дня пути? За два дня мы не справимся."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:714
@@ -16420,7 +16421,8 @@ msgid ""
 "Then we must kill as many of them as possible and choose a good defensive "
 "position until Grekulak's army arrives."
 msgstr ""
-"Тогда нужно убить столько, сколько сможем, и занять хорошую оборонительную"
+"Тогда нужно уничтожить столько, сколько сможем, и занять хорошую"
+" оборонительную"
 " позицию до прибытия армии Грекулака."
 
 #. [event]
@@ -16429,8 +16431,8 @@ msgid ""
 "Indeed. We will have no time to rest and cure our wounded. But perhaps it "
 "won't be necessary, we should negotiate first..."
 msgstr ""
-"Конечно. У нас не будет времени отдохнуть и перевязать раненых. Но может"
-" быть, что это не понадобится, надо сначала поговорить..."
+"Пожалуй. У нас не будет времени отдохнуть и перевязать раненых. Но может"
+" быть, это не понадобится, надо попробовать договориться..."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:716
@@ -16453,7 +16455,8 @@ msgid ""
 "coward he abandoned his family in Freetown when he heard we were coming for "
 "them."
 msgstr ""
-"Ой, боюсь. А это не знаменитый ли вождь бунтовщиков Рувио? Который трусливо"
+"О, как я напуган! А это не знаменитый ли вождь бунтовщиков Рувио? Который"
+" трусливо"
 " бросил свою семью во Фритауне как только услышал, что мы идём за ним?"
 
 #. [event]
@@ -16461,8 +16464,7 @@ msgstr ""
 msgid ""
 "My lord... please... grant me this, I pray you. I want to kill him. Leave "
 "him to me."
-msgstr ""
-"Милорд... пожалуйста... позвольте, умоляю. Я хочу убить его. Оставьте его мне."
+msgstr "Милорд... умоляю вас. Его должен убить я. Оставьте его мне."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:721
@@ -16478,7 +16480,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:728
 msgid "Kill them. Kill them all. Have no mercy."
-msgstr "Убейте их. Убивайте всех. Без пощады."
+msgstr "Убить их. Смерть им всем. Никакой пощады."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:729
@@ -16486,13 +16488,14 @@ msgid ""
 "My lord, we really should try negotiations first. Grekulak is enemy of "
 "everyone, and..."
 msgstr ""
-"Милорд, нам нужно сначала попробовать переговоры. Грекулак — всеобщий враг,"
+"Милорд, нам обязательно нужно попробовать договориться. Грекулак угрожает"
+" всем,"
 " и..."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:730
 msgid "Remember the Freetown! Remember the Freetown! Kill them all!"
-msgstr "За Фритаун! За Фритаун! Убивайте всех!"
+msgstr "Вспомни Фритаун! За Фритаун! Несите смерть!"
 
 #. [objectives]
 #. this hint is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
@@ -16502,8 +16505,7 @@ msgstr "За Фритаун! За Фритаун! Убивайте всех!"
 msgid ""
 "In this scenario, only Gawen and Lorin have full interrogations for enemy "
 "leaders."
-msgstr ""
-"В этом сценарии только Гевен и Лорин смогут провести допросы полностью."
+msgstr "В этом сценарии только Гевен и Лорин могут вести полноценные допросы."
 
 #. [option]
 #. debug option; completes sentence starting with "Set scenario status to...":
@@ -16796,7 +16798,7 @@ msgstr "Готов к небольшому сюрпризу? Взять его, 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1431
 msgid "Milord, should I destroy this bridge?"
-msgstr "Милорд, мне разрушить мост?"
+msgstr "Милорд, мне следует разрушить мост?"
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1437
@@ -16811,7 +16813,7 @@ msgstr "Нет, но нам может понадобиться разрушит
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1439
 msgid "No, we won't be destroying any bridges today."
-msgstr "Нет, сегодня мы не будет разрушать никаких мостов."
+msgstr "Нет, сегодня мы не будем разрушать мосты."
 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1498
@@ -16824,8 +16826,8 @@ msgid ""
 "OK, I won't this time, but I really think we should destroy some bridges "
 "eventually, so I'll keep asking!"
 msgstr ""
-"Хорошо, не сейчас. Но я считаю, что в конце концов мосты нужно будет"
-" уничтожить. Позже я спрошу ещё раз."
+"Хорошо, не буду. Но я считаю, что мосты нужно будет"
+" разрушить. Я ещё напомню."
 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1509
@@ -16835,7 +16837,7 @@ msgstr "Тогда я больше не буду спрашивать."
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1525
 msgid "Let me set up an outpost here."
-msgstr "Дайте-ка я сделаю тут заставу."
+msgstr "Позвольте, я построю здесь укрепление."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1550
