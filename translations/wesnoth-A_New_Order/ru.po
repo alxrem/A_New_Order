@@ -7,26 +7,26 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-02-20 01:30+0300\n"
+"PO-Revision-Date: 2024-02-20 01:58+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 23.08.4\n"
 
 #. [terrain_type]: id=Table
 #: A_New_Order/terrains/terrain.cfg:6
 msgid "Table"
-msgstr ""
+msgstr "Стол"
 
 #. [terrain_type]: id=Room_inside
 #: A_New_Order/terrains/terrain.cfg:14
 msgid "Room inside"
-msgstr ""
+msgstr "Внутренняя комната"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -782,7 +782,6 @@ msgstr "Пикейщик Акладиан"
 
 #. [unit_type]: id=Akladian Pikeneer, race=akladian
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:18
-#, fuzzy
 msgid ""
 "Akladian Pikeneers are members of permanent personal armies of Akladian "
 "lords, being the closest thing to a regular army that Akladians have. They "
@@ -2153,7 +2152,6 @@ msgstr "Роуле"
 
 #. [then]
 #: A_New_Order/macros/ano-01_06macros.cfg:155
-#, fuzzy
 msgid "You fool! He is a mixling, he can't be our king!"
 msgstr "Ты идиот! Он полукровка, он нам не король!"
 
@@ -3000,9 +2998,8 @@ msgstr "Роберт Здоровяк"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:349
-#, fuzzy
 msgid "Aargh! I feel... so cold..."
-msgstr "А-а-ах! Я чувствую... холод..."
+msgstr "А-а-ах! Мне так... Холодно..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:350
@@ -4384,9 +4381,8 @@ msgstr "Митрандил"
 #. [unit]: type=Peasant, id=Matthew Eagles-Eye
 #: A_New_Order/macros/messages.cfg:178
 #: A_New_Order/scenarios/13_Scouting.cfg:894
-#, fuzzy
 msgid "Matthew Eagle's-Eye"
-msgstr "Мэтьюс Зоркий Глаз"
+msgstr "Меттью Зоркий Глаз"
 
 #. [side]: id=Uruk Lug, type=Orcish Warlord
 #: A_New_Order/macros/messages.cfg:182
@@ -10525,7 +10521,7 @@ msgstr "Похоже, орк на севере умнее южного."
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:363
 msgid "Wesnothian Peasant"
-msgstr ""
+msgstr "Веснотский крестьянин"
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:363
@@ -15205,12 +15201,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1852
-#, fuzzy
 msgid ""
 "The answer to this question is the answer to your doubts. Why haven't I "
 "escaped? Why didn't I call someone for help?"
 msgstr ""
-"Ответ на этот вопрос это ответ на твои сомнения. Почему я не убежала? Почему "
+"Разрешение твоих сомнений ответит на твой вопрос. Почему я не убежала? Почему "
 "я не позвала на помощь?"
 
 #. [event]
@@ -15750,13 +15745,12 @@ msgstr "Ну а сейчас мы подведём итоги."
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1439
-#, fuzzy
 msgid ""
 "If this campaign were continuing normally from here, Lorin would receive a "
 "bonus of $bonus_amt|g per each turn above the minimum of $ano_howmanyturns "
 "extra turns: $ano_barnon_turns"
 msgstr ""
-"Если бы кампания продолжалась как положено, Лорин получала бы $bonus_amt "
+"Если бы кампания продолжалась как положено, Лорин получила бы $bonus_amt "
 "призовых золотых каждый за ход сверх $ano_howmanyturns: $ano_barnon_turns"
 
 #. [event]
@@ -17871,9 +17865,8 @@ msgstr "$unit.name становится разбойником!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:13
-#, fuzzy
 msgid "Old Woman"
-msgstr "Старая женщина"
+msgstr "Старуха"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:18
@@ -19765,9 +19758,8 @@ msgstr "О! Ящеры спрятали тут немного золота!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:511
-#, fuzzy
 msgid "You have received $gold_amt_s14e gold pieces."
-msgstr "Вы получили $gold_amt_1 золотых"
+msgstr "Вы получили $gold_amt_s14e золотых"
 
 #. [event]
 #. EASY difficulty:
@@ -24990,3 +24982,4 @@ msgstr ""
 
 #~ msgid "You have received 50 gold pieces"
 #~ msgstr "Вы получили 50 золотых."
+
