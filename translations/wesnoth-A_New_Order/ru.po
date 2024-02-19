@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-15 04:51 UTC\n"
-"PO-Revision-Date: 2024-02-18 02:44+0300\n"
+"PO-Revision-Date: 2024-02-19 01:15+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -1686,7 +1686,7 @@ msgid ""
 "whole battlefield, but the efforts of his men proved fruitless."
 msgstr ""
 "После битвы окрестности Барнона были завалены телами, но тело Гевена так и не"
-" нашли. В ярости Бор Крайн приказал обшарить всё поле боя, но все усилия его"
+" нашли. В ярости Бор Крайн приказал обшарить всё поле боя, но усилия его"
 " людей не принесли плода."
 
 #. [part]
@@ -1697,12 +1697,12 @@ msgid ""
 "and no hope on the faces of the soldiers."
 msgstr ""
 "Настроение маленького усталого отряда, бредущего за леди Лорин и Реме"
-" Карренемо было подавленным. Хотя все избежали смерти, их лица не выражали ни"
-" радости, ни надежды."
+" Карренемо, было подавленным. Все они избежали смерти, но их лица не выражали"
+" ни радости, ни надежды."
 
 #: A_New_Order/macros/conversations.cfg:15
 msgid "I can't believe this happened... He's dead..."
-msgstr "Я не могу в этом поверить... Он мёртв..."
+msgstr "Я не могу в это поверить... Он мёртв..."
 
 #: A_New_Order/macros/conversations.cfg:16
 msgid "Is he? I've heard they couldn't find the body."
@@ -1757,7 +1757,7 @@ msgstr "Не валяй дурака, дочка. Сейчас командую 
 
 #: A_New_Order/macros/conversations.cfg:28
 msgid "She's a girl that loves action, isn't she."
-msgstr "Девчонка людит подвигаться, да?"
+msgstr "Девчонка любит подвигаться, да?"
 
 #: A_New_Order/macros/conversations.cfg:29
 msgid ""
@@ -6112,7 +6112,7 @@ msgstr "Как это возможно?"
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1265
 msgid "I should've stayed in hills in the north..."
-msgstr "Я должен был остаться на сервере, среди холмов..."
+msgstr "Я должен был остаться на севере, среди холмов..."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:3
@@ -9981,7 +9981,7 @@ msgid ""
 "My lord, we can't let anyone know that you live. No enemy should leave this "
 "battlefield alive. There aren't many of them; this should be easy."
 msgstr ""
-"Хальдрик, никто не должен знать, что ты остался жив. Враги должны полечь на"
+"Милорд, никто не должен знать, что Вы остались живы. Враги должны полечь на"
 " поле все до одного. Мы справимся легко, их здесь не много."
 
 #. [objective]: condition=win
@@ -10039,7 +10039,7 @@ msgstr ""
 msgid ""
 "Today you won't be commanded by me, but by this young man. I will only be "
 "his advisor."
-msgstr "Сегодня вами командую не я, а вон тот юноша. А я его советник."
+msgstr "Сегодня вами командую не я, а вон тот юноша. Я только его советник."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:567
@@ -10272,7 +10272,7 @@ msgid ""
 "bosses."
 msgstr ""
 "Нет-нет-нет. Нам сказали только осмотреться. У нас особое задание. Мы должны"
-" вернуться с докладом в штаб. К боссам, ясно?"
+" вернуться с докладом в штаб. К боссам, ну ты понял."
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:307
@@ -10294,7 +10294,7 @@ msgstr ""
 msgid ""
 "It seems that the orc in the north is a bit more intelligent than the "
 "southern one."
-msgstr "Похоже, орк на сервере умнее южного."
+msgstr "Похоже, орк на севере умнее южного."
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:355
@@ -10302,8 +10302,8 @@ msgid ""
 "We are liberated! Hurray! Wait a moment... those are Akladians. I never "
 "thought I would be glad to see them!"
 msgstr ""
-"Мы свободны! Ура! Подождите... это акладианы. Никогда бы не подумал, что буду"
-" раз их встретить!"
+"Мы свободны! Ура! Подождите... Это акладианы. Никогда бы не подумал, что буду"
+" рад их встретить!"
 
 #. [event]
 #. some Akladian unit, possibly also Lorin
@@ -10316,7 +10316,7 @@ msgstr "О, боже! Что здесь произошло?"
 msgid ""
 "One thing is for sure... we will find no shelter, no supplies, and none of "
 "Reme's friends here."
-msgstr "Одно понятно... не будет нам ни крова, ни еды и никакого друга Реме."
+msgstr "Одно понятно... Не будет нам ни крова, ни еды и никакого друга Реме."
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:380
@@ -10368,7 +10368,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:405
 msgid "Kill the humans... good meat."
-msgstr "Убить человеков... свежее мясо."
+msgstr "Убить человеков... Свежее мясо."
 
 #. [then]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:416
@@ -10381,7 +10381,8 @@ msgid ""
 "Sigh. It seems we will get more from the second Orcish leader. This one "
 "is... I mean was... far less intelligent."
 msgstr ""
-"Ох. Похоже, больше мы узнаем от второго. Этот... был... не слишком умным."
+"Ох. Похоже, больше мы узнаем от второго. Этот... Скажем так, был... Не"
+" слишком умным."
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:433
@@ -10394,8 +10395,8 @@ msgid ""
 "Before I kill you, I want to ask you a question. Do you prefer to die "
 "painlessly or do you want me to think up some nightmarish way for you to die?"
 msgstr ""
-"Конечно, я убью тебя. Но прежде — один вопрос. Предпочитаешь умереть без"
-" боли, быстро, или ты хочешь, чтобы я специально для тебя придумала особенно"
+"Прежде, чем я убью тебя, один вопрос. Предпочитаешь умереть без"
+" боли, быстро, или хочешь, чтобы я специально для тебя придумала особенно"
 " кошмарную, мучительную смерть?"
 
 #. [event]
@@ -10416,7 +10417,7 @@ msgid ""
 "here? Answer now, or you will end your life as a miserable gelding!"
 msgstr ""
 "Ты ошибаешься, дружок. Я это докажу. Сначала несколько вопросов. Ты говорил,"
-" что вы в разведке. Кто вас послал? Ответь сейчас, иначе к своим предкам"
+" что вы в разведке. Кто вас послал? Отвечай, иначе к своим предкам"
 " отправишься позорным обесчещенным кастратом."
 
 #. [event]
@@ -10427,7 +10428,7 @@ msgid ""
 "Castle Raumair and escort an envoy to our headquarters."
 msgstr ""
 "Постой, я всё скажу! На севере большая армия, готовая напасть на ваше"
-" королевство. А нас послали выяснить пути, сжечь замок \t и сопроводить"
+" королевство. А нас послали выяснить пути, сжечь замок Раумэр и сопроводить"
 " посланца к нашим командирам."
 
 #. [event]
@@ -10446,7 +10447,8 @@ msgid ""
 "Wait - you were expecting human envoy here? And how did you make your way "
 "here through the underling realms?"
 msgstr ""
-"Постой-ка, вы посланца ждали здесь? Но как же вы прошли через убогих царства?"
+"Постой-ка, вы ждали здесь посланца от людей? Но как же вы миновали земли"
+" убогих?"
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:454
