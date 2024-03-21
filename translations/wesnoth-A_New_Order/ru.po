@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-20 09:06+0300\n"
+"PO-Revision-Date: 2024-03-21 10:03+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -17923,7 +17923,7 @@ msgid ""
 "you will find them useful..."
 msgstr ""
 "Постой, юноша. Ты меня повеселил, а в моём возрасте, да ещё в такое время "
-"это кое-что значит. В награду я расскажу тебе кое-что о лечебных травах. "
+"это чего-то стоит. В награду я расскажу тебе кое-что о лечебных травах. "
 "Может, тебе это пригодится..."
 
 #. [object]: id=healing_skill
@@ -17971,13 +17971,13 @@ msgstr "Возможно, я первая, у кого это получится
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:55
 msgid "Go on and try me. Either kill me, or stop bothering me."
-msgstr "Давай попробуй. Или убей меня, или прекрати меня доставать."
+msgstr "Давай попробуй. Уже или убей меня, или прекрати мне надоедать."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:56
 msgid "Listen, woman. No underling can speak that way to Lorin and..."
 msgstr ""
-"Слушай женщина. Никто из убогих не может так разговаривать с Лорин и..."
+"Послушай-ка женщина. Никто из убогих не может так разговаривать с Лорин и..."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:60
@@ -17999,12 +17999,12 @@ msgstr "Что тебе?"
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:71
 msgid "So, where I was... Ah! No underling can speak..."
-msgstr "Так где я... А, убогие не скажут..."
+msgstr "Где я... Да ну. Убогие не скажут..."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:75
 msgid "Hey! You are really making me angry! Come back here!"
-msgstr "Эй! Ты меня серьёзно разозлила! Вернись немедленно!"
+msgstr "Эй! Вот теперь я серьёзно разозлилась! Вернись немедленно!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:77
@@ -18018,12 +18018,12 @@ msgstr "Эй!!!"
 msgid ""
 "That makes it. Where is the torch? I will raze this whole village to the "
 "ground!"
-msgstr "Ну, хорошо же. Дайте факел. Я сравняю эту деревню с землёй."
+msgstr "Ну, хорошо же. Где факелы. Я сравняю эту деревню с землёй!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:82
 msgid "No, you won't, not as long as I have something to say about it."
-msgstr "Нет, не сравняешь, пока я не разрешу."
+msgstr "Нет, не сравняете, пока я не разрешу."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:83
@@ -18037,7 +18037,7 @@ msgstr ""
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:84
 msgid "Seems to me the woman already wasn't respecting you."
-msgstr "По-моему эта женщина уже нас не уважает."
+msgstr "Похоже, эта женщина и так нас не уважает."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:90
@@ -18045,13 +18045,13 @@ msgid ""
 "Yes, I survived the battle at Barnon. I will tell you everything later, but "
 "for now - do not call me Gawen, please. I am Gaumhaldric."
 msgstr ""
-"Да, я выжил в битве при Барноне. Я всё расскажу тебе потом, а пока прошу "
-"тебя не называть меня Гевеном. Я Гемхальдрик."
+"Да, я выжил в битве при Барноне. Я всё расскажу потом, а пока прошу "
+"Вас не называть меня Гевеном. Я Гемхальдрик."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:92
 msgid "We may withdraw. There is no point in fighting the others."
-msgstr "Можно отступить. Нам не нужно добивать остальных."
+msgstr "Теперь можно отступить. Нам не нужно добивать остальных."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:94
@@ -18125,8 +18125,8 @@ msgid ""
 "I don't care about the others. If you want, you may ask them questions, but "
 "I won't waste my time on them."
 msgstr ""
-"Остальные меня не волнуют. Если хочешь, можешь с ними поговорить, а я не "
-"буду тратить на это время..."
+"Остальные не представляют интереса. Если хотите, можете с ними поговорить, а"
+" я бы занялся другими делами..."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:342
@@ -18196,7 +18196,7 @@ msgstr "Это что шутка? У вас нет таких денег!"
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:372
 msgid "Seems fine to me. $reme_fee_amt golden pieces for me, Reme for you."
-msgstr "Меня устраивает. Мне - $reme_fee_amt золотых, вам - Реме."
+msgstr "Устраивает. Мне - $reme_fee_amt золотых, вам - Реме."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:378
@@ -18281,39 +18281,39 @@ msgid ""
 "happy to see you again', but to be honest, I am not."
 msgstr ""
 "Ну что, Реме, мы снова встретились. Хм... Мне наверное нужно сказать что-то "
-"типа: \"как я рада видеть тебя снова\", но я, честно говоря, не рада."
+"типа: \"как я рада видеть Вас снова\", но я, честно говоря, не рада."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:510
 msgid "Lorin... and... Gawen? Is that really you?"
-msgstr "Лорин... и... Гевен?! Это действительно вы?"
+msgstr "Лорин... и... Гевен?! Это действительно Вы?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:516
 msgid "Reme, are you ok?"
-msgstr "Реме, как ты себя чувствуешь?"
+msgstr "Реме, как Вы себя чувствуете?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:518
 #: A_New_Order/scenarios/14b_Bontom.cfg:538
 msgid "Yes... yes... Gawen? Is that really you?"
-msgstr "Хорошо, хорошо... Гевен? Это действительно ты?"
+msgstr "Хорошо, хорошо... Гевен? Это действительно Вы?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:535
 msgid "They are keeping some Akladian in cage in here. Should I kill him?"
-msgstr "Тут в клетке держат какого-то акладиана. Мне его убить?"
+msgstr "Тут в клетке держат какого-то акладиана. Убить его?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:536
 msgid "No! This is my friend, Reme! Reme, are you ok?"
-msgstr "Нет! Это мой друг Реме! Реме, с тобой всё в порядке?"
+msgstr "Нет! Это мой друг Реме! Реме, с Вами всё в порядке?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:546
 #: A_New_Order/scenarios/14b_Bontom.cfg:596
 msgid "Such a young man... And yet, one darn good fighter.."
-msgstr "Такой молодой парень... А всё равно чертовски хороший боец."
+msgstr "Такой молодой парень... Но чертовски хороший боец."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:547
@@ -18325,7 +18325,7 @@ msgstr "Ты тоже был достойным противником."
 #: A_New_Order/scenarios/14b_Bontom.cfg:548
 #: A_New_Order/scenarios/14b_Bontom.cfg:598
 msgid "Yes... it was a good fight, wasn't it?"
-msgstr "Да... а неплохая вышла драка?"
+msgstr "Да... А неплохая вышла драка?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:549
@@ -18380,7 +18380,7 @@ msgstr "Они пришли вместе с акладианами."
 #: A_New_Order/scenarios/14b_Bontom.cfg:624
 #: A_New_Order/scenarios/14b_Bontom.cfg:654
 msgid "But why?"
-msgstr "Но почему?"
+msgstr "Но зачем?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:578
@@ -18438,13 +18438,13 @@ msgstr "Они в союзе с акладианами."
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:631
 msgid "I don't know that. A lot of Akladians buy poison from us."
-msgstr "Я не знаю. Многие из акладиан покупали у нас яды."
+msgstr "Я не знаю. Много кто из акладиан покупал у нас яды."
 
 #. [event]
 #. probably unreachable, but just here to ensure all our bases our covered:
 #: A_New_Order/scenarios/14b_Bontom.cfg:639
 msgid "Uh... what was that?"
-msgstr "Ммм... а что?"
+msgstr "Ммм... А что?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:647
@@ -18478,22 +18478,22 @@ msgstr "Что?.. Какой способ?"
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:652
 msgid "If I am just a  hallucination, this won't hurt."
-msgstr "Если я просто галлюцинация, тебе не будет больно."
+msgstr "Если я галлюцинация, тебе не будет больно."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:653
 msgid "No! Mother, I won't let you! Leave him to die peacefully!"
-msgstr "Нет! Мать, я не разрешаю тебе! Дай ему спокойно умереть!"
+msgstr "Нет! Мать, я не разрешаю! Дайте ему спокойно умереть!"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:655
 msgid "Because it is a bad thing to torture people."
-msgstr "Потому пытать людей это плохо."
+msgstr "Потому что пытать людей это плохо."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:657
 msgid "Because... uh..."
-msgstr "Да потому что... э..."
+msgstr "Да потому что... Э..."
 
 #. [event]
 #. "teach an old dog new tricks" is a common idiom in English; feel free to word your translation with a similar
@@ -18520,7 +18520,7 @@ msgstr ""
 #. Gawen was about to give him his fake "Gaumhaldric" name before changing his mind and deciding to use his real one:
 #: A_New_Order/scenarios/14b_Bontom.cfg:668
 msgid "Gau... Gawen. Gawen Hagarthen."
-msgstr "Гэм... Гевен. Гевен Хагартен."
+msgstr "Гем... Гевен. Гевен Хагартен."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:669
@@ -18547,10 +18547,10 @@ msgid ""
 "to see its path. Where the fear has gone there will be nothing. Only I will "
 "remain."
 msgstr ""
-"Я не боюсь, я не должен бояться. Ибо страх убивает разум.Страх есть малая "
-"смерть, влекущая за собой полное уничтожение.Я встречу свой страх и приму "
-"его. Я позволю ему пройти надо мной и сквозь меня.И когда он пройдёт через "
-"меня, я обращу свой внутренний взор на его путь;И там, где был страх, не "
+"Я не боюсь, я не должен бояться. Ибо страх убивает разум. Страх есть малая "
+"смерть, влекущая за собой полное уничтожение. Я встречу свой страх и приму "
+"его. Я позволю ему пройти надо мной и сквозь меня. И когда он пройдёт через "
+"меня, я обращу свой внутренний взор на его путь; И там, где был страх, не "
 "останется ничего. Останусь лишь я, я сам."
 
 #. [event]
@@ -18563,7 +18563,7 @@ msgid ""
 msgstr ""
 "Ой, как мило. Если ты наговорился, то у меня тут есть малый ножик, влекущий "
 "за собой полное уничтожение, не говоря уже о страданиях, когда он пройдёт и "
-"сквозь тебя, и через тебя."
+"сквозь тебя и через тебя."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:680
@@ -18606,7 +18606,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:693
 msgid "Never mind. My step-mother is obsessed with death and pain. Sigh."
-msgstr "Ничего. Моя мачеха - помешана на смерти и страданиях. Ох..."
+msgstr "Ничего. Моя мачеха помешана на смерти и страданиях. Ох..."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:694
@@ -18692,7 +18692,7 @@ msgid ""
 "this poor village, I will teach you few tricks about herbs."
 msgstr ""
 "Ха-ха-ха, конечно ничего, раз ты так позаботилась об орках и акладианах. Вот "
-"что, юная дама, за то, что ты сделала для нашей безной деревни, я расскажу "
+"что, юная дама, за то, что ты сделала для нашей бедной деревни, я расскажу "
 "тебе кое-что о целебных травах."
 
 #. [scenario]: id=15_Back_in_Freetown
