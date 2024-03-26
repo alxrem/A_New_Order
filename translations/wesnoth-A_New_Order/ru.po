@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-25 09:50+0300\n"
+"PO-Revision-Date: 2024-03-26 09:20+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -7775,8 +7775,8 @@ msgid ""
 "...so, you will take eighteen of your very best troops and search for this "
 "great mage, Deorien, to try to convince him to join our cause."
 msgstr ""
-"... Итак, ты можешь взять с собой восемнадцать самых лучших своих отрядов и "
-"отправиться на поиски великого мага Деориэна, чтобы попробовать уговорить "
+"... Итак, бери с собой восемнадцать самых лучших своих отрядов и "
+"отправляйся на поиски великого мага Деориэна. Попробуй убедить "
 "его присоединиться к нам."
 
 #. [event]
@@ -7785,7 +7785,7 @@ msgid ""
 "I understand. My eighteen very best, most experienced soldiers. When should "
 "I go?"
 msgstr ""
-"Я понял. Восемнадцать самых лучших, самых опытных моих солдат. Когда я "
+"Понятно. Восемнадцать самых лучших, самых опытных солдат. Когда я "
 "должен выйти?"
 
 #. [event]
@@ -7795,14 +7795,14 @@ msgid ""
 "...so, you will take fifteen of your best troops and search for this great "
 "mage, to try to convince him to join our cause."
 msgstr ""
-"... Итак, ты можешь взять с собой пятнадцать наших лучших отрядов и "
-"отправиться на поиски великого мага, чтобы попробовать уговорить его "
+"... Итак, бери с собой пятнадцать лучших своих отрядов и "
+"отправляйся на поиски великого мага. Попробуй убедить его "
 "присоединиться к нам."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:162
 msgid "I understand. My fifteen best soldiers. When should I go?"
-msgstr "Я понял. Мои пятнадцать лучших солдат. Когда я должен выйти?"
+msgstr "Понятно. Пятнадцать моих лучших солдат. Когда я должен выйти?"
 
 #. [event]
 #. HARD difficulty, somewhat vaguer than the previous two:
@@ -7811,19 +7811,19 @@ msgid ""
 "...so, you'll take twelve of your troops and search for that mage, to try to "
 "convince him to join our cause."
 msgstr ""
-"... Итак, ты можешь взять с собой двенадцать отрядов и отправиться на поиски "
-"этого мага, чтобы попробовать уговорить его присоединиться к нам."
+"... Итак, бери с собой двенадцать отрядов и отправляйся на поиски "
+"этого мага. Попробуй убедить его присоединиться к нам."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:167
 msgid "I understand. Twelve soldiers. When should I go?"
-msgstr "Я понял. Двенадцать солдат. Когда я должен выйти?"
+msgstr "Понятно. Двенадцать солдат. Когда я должен выйти?"
 
 #. [event]
 #. NIGHTMARE difficulty, vaguest:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:171
 msgid "...so, nine troops. Search for that mage. Got it?"
-msgstr "... Итак, девять отрядов. Найти мага. Понятно?"
+msgstr "... Итак, девять отрядов. Ищи мага. Понятно?"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:172
@@ -7833,7 +7833,7 @@ msgstr "Понятно. Девять солдат. Когда я должен в
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:174
 msgid "Does that mean that you agree?"
-msgstr "Это означает, что ты согласен?"
+msgstr "Означает ли это твоё согласие?"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:175
@@ -7847,19 +7847,18 @@ msgid ""
 "some time to pick the best soldiers and train them."
 msgstr ""
 "Думаю, что тебе лучше приступать к поискам с наступлением оттепели. Кроме "
-"того, тебе понадобится время, чтобы отобрать лучших солдат и натренировать "
-"их."
+"того, понадобится время, чтобы отобрать и натренировать лучших солдат."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:177
 msgid "If you want, more elves are willing to serve you."
-msgstr "Ещё некоторые эльфы хотели бы послужить тебе, если пожелаешь."
+msgstr "Некоторые эльфы хотели бы послужить Вам, если изволите."
 
 #. [event]
 #. "Swordsmen" were included in this line previously, but he no longer offers them, so I removed them:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:179
 msgid "I could give you some of my soldiers: Bowmen, or Spearmen."
-msgstr "А я могу дать тебе кого-то из своих солдат: лучника или копьеносца."
+msgstr "А я могу дать Вам кого-то из своих солдат: лучника или копьеносца."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:180
@@ -7877,10 +7876,10 @@ msgid ""
 "or more gold if you already have enough soldiers to choose from."
 msgstr ""
 "Замечание. Вскоре нужно будет выбрать восемнадцать лучших своих отрядов. "
-"Эльфийские и человеческие бойцы, присланные Митрандилом и Хуоном "
-"соответственно, тоже будут в списке для выбора. Имейте в виду, они входят в "
+"Эльфийские и человеческие бойцы, присланные Митрандилом и Хуоном, тоже будут"
+" в списке для выбора. Имейте в виду, они входят в "
 "общее число. Сейчас можно выбрать не более четырёх солдат или золото, если  "
-"считаете, что солдат уже хватит."
+"считаете, что солдат уже достаточно."
 
 #. [event]
 #. NORMAL difficulty, should be most normal:
@@ -7890,7 +7889,7 @@ msgid ""
 "soldiers given by Huon and Mithrandil count against this limit. Choose four "
 "soldiers now."
 msgstr ""
-"Замечание. Вскоре нужно будет выбирать пятнадцать из лучших своих отрядов. "
+"Замечание. Вскоре нужно будет выбирать пятнадцать лучших своих отрядов. "
 "Эльфийские и человеческие бойцы, присланные Митрандилом и Хуоном, тоже "
 "считаются. А сейчас выберите четырёх солдат."
 
@@ -7944,7 +7943,7 @@ msgstr "Вы получили 25 золотых."
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:214
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:237
 msgid "Give me..."
-msgstr "Дай мне..."
+msgstr "Дайте мне..."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:215
