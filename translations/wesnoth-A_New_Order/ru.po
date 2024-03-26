@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-26 09:25+0300\n"
+"PO-Revision-Date: 2024-03-26 09:30+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -8142,8 +8142,9 @@ msgid ""
 "that it must be under such dire circumstances! Have no fear, for we are "
 "prepared to pierce straight through these beasts' scaly hides!"
 msgstr ""
-"Кёсель! Я, конечно, рад тебя видеть, жаль только, что при таких кошмарных "
-"обстоятельствах! Не бойтесь, мы готовы пробивать насквозь чешуйчатые шкуры "
+"Кёсель! Как хорошо вновь с Вами увидеться, жаль только, что при таких"
+" кошмарных "
+"обстоятельствах! Не бойтесь, мы готовы пронзать насквозь чешуйчатые шкуры "
 "этих тварей!"
 
 #. [objective]: condition=win
@@ -8169,7 +8170,7 @@ msgstr "Стоящие у костров будут получать урон к
 #. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:288
 msgid "I thought you said that it was drakes that were attacking you?"
-msgstr "Мне показалось, ты говорил, что на вас напали драконы."
+msgstr "Мне показалось, Вы говорили, что на вас напали драконы."
 
 #. [message]: speaker=Quësel
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:295
