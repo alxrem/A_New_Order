@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-27 08:49+0300\n"
+"PO-Revision-Date: 2024-03-28 08:55+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -5134,7 +5134,7 @@ msgstr "Ты знаешь что-нибудь о маге Деориэне?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:377
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
 msgid "Have you heard any interesting news recently?"
-msgstr "Какие последние новости ты слышал?"
+msgstr "Слышал что-нибудь новое?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:315
@@ -5356,7 +5356,7 @@ msgstr "Рувио, скажи пожалуйста..."
 #: A_New_Order/scenarios/20_Okladia.cfg:474
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:578
 msgid "Why do you dislike Lorin?"
-msgstr "Почему тебе так не нравится Лорин?"
+msgstr "Почему Вам так не нравится Лорин?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:475
@@ -5367,7 +5367,7 @@ msgstr "Расскажи ещё о вас с моей матерью."
 #: A_New_Order/scenarios/20_Okladia.cfg:476
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:580
 msgid "Tell me about Karen"
-msgstr "Расскажи мне о Карен."
+msgstr "Расскажите мне о Карен."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:479
@@ -5409,8 +5409,9 @@ msgid ""
 "Well, she is my oldest daughter. From her youth she always wanted to be a "
 "great fighter, and she always tried to be the best."
 msgstr ""
-"Ну, она моя старшая дочь. С самого детства она мечтала стать великим воином "
-"и всегда старалась быть лучшей."
+"Что ж, она моя старшая дочь. С самого детства она мечтала стать великим"
+" воином "
+"и всегда старалась быть лучшей во всём."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:486
@@ -5426,8 +5427,8 @@ msgid ""
 "time to escape. This journey is really too dangerous for her. I hope she "
 "will remain safe in Freetown."
 msgstr ""
-"Я приказал Карлу связать её и запереть в комнате. Думаю поэтому нам удалось "
-"уйти достаточно далеко. Это путешествие чересчур опасно для неё. Надеюсь во "
+"Я приказал Карлу связать её и запереть в комнате. Думаю, поэтому нам удалось "
+"уйти достаточно далеко. Это путешествие чересчур опасно для неё. Надеюсь, во "
 "Фритауне она будет в большей безопасности."
 
 #. [event]
@@ -5469,19 +5470,19 @@ msgstr "Не волнуйся об этом. Ты всегда будешь мо
 #: A_New_Order/scenarios/20_Okladia.cfg:501
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:603
 msgid "Mother, what's going on?"
-msgstr "Мама, как дела?"
+msgstr "Мать, как дела?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:504
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:605
 msgid "Mother? I thought you said I was not your real mother?"
-msgstr "Мама? Мне казалось, ты говорил, что я тебе не мать."
+msgstr "Мать? Мне казалось, ты говорил, что я тебе не мать."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:505
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:606
 msgid "I'm sorry. I was really angry."
-msgstr "Прости. Я был взбешён."
+msgstr "Простите. Я был взбешён."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:510
@@ -5489,7 +5490,7 @@ msgstr "Прости. Я был взбешён."
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:612
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:620
 msgid "Mother, can I have a word with you?"
-msgstr "Мама, мы можем поговорить?"
+msgstr "Мать, мы можем поговорить?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:511
@@ -7198,7 +7199,7 @@ msgstr "Где может быть Реме Карренемо?"
 #: A_New_Order/scenarios/13_Scouting.cfg:755
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:579
 msgid "Advise me what could we do now."
-msgstr "Посоветуй, что делать дальше?"
+msgstr "Посоветуйте, что делать дальше?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:756
@@ -20302,8 +20303,9 @@ msgid ""
 "signs of chaos and war everywhere: burned villages, refugees, bodies of the "
 "dead. In villages people were scared and tried to avoid talking with us."
 msgstr ""
-"Из Редвуда мы вышли в поля, тянущиеся на юго-восток. Повсюду мы встречали "
-"хаос и следы войны: сожжённые деревни, беженцы, мёртвые тела. Люди в "
+"Из Редвуда мы вышли в поля, тянущиеся на юго-восток. Повсюду мы встречали"
+" признаки "
+"войны и хаоса: сожжённые деревни, беженцы, мёртвые тела. Люди в "
 "деревнях были напуганы и избегали разговоров с нами."
 
 #. [part]
@@ -20317,7 +20319,7 @@ msgid ""
 msgstr ""
 "Как мы выяснили, по всей Вакладии акладианы воевали друг с другом. Бор Крайн "
 "со своей фракцией медленно, но верно, брал верх, благодаря поддержке орков. "
-"Бандиты и бунтовщики, а иногда разница была только в названии, "
+"Бандиты и бунтовщики, разница иногда была только в названии, "
 "беспрепятственно бродили по стране. Наступили трудные времена."
 
 #. [part]
@@ -20330,11 +20332,12 @@ msgid ""
 "categorically refused to talk about it became much more withdrawn, as though "
 "she was keeping a weighty matter to herself."
 msgstr ""
-"На самом деле я не был доволен итогами нашего визита к Оракулу. Ни один из "
-"её ответов меня не удовлетворил. Мы по прежнему понятия не имели, где искать "
+"Честно говоря, я был недоволен итогами нашего визита к Оракулу. Ни один из "
+"её \"ответов\" меня не удовлетворил. Мы по прежнему понятия не имели, где"
+" искать "
 "Деориэна, а разговор Лорин с Оракулом озадачил меня ещё больше. Лорин "
 "категорически отказывалась об этом говорить, стала замкнутой, и постоянно "
-"думала о чём-то очень важном для себя."
+"думала о чём-то личном и, похоже, очень важном для неё."
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:74
@@ -20393,7 +20396,7 @@ msgstr "Я уже знаю где может быть Деориэн."
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:171
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:195
 msgid "You are right. Let's go to the Oracle first."
-msgstr "Ты прав. Сначала к Оракулу."
+msgstr "Вы правы. Сначала к Оракулу."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:173
@@ -20409,8 +20412,8 @@ msgid ""
 "either category, consider reloading."
 msgstr ""
 "Этот вариант обычно выбирают те, кто уже играл в \"Новый порядок\" раньше, "
-"или кто не интересуется сюжетом. Если вы не относитесь ни к одной из этих "
-"категорий, попробуйте сначала."
+"или кто не интересуется сюжетом. Если вы не относитесь ни к к тем , ни к"
+" другим, подумайте ещё."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:181
@@ -20419,7 +20422,8 @@ msgid ""
 "could have taken a different path through the woods to get to Okladia "
 "instead, but it is too late for that now!"
 msgstr ""
-"Хорошо, отправимся в Окладию по холмам. Заметьте, что мы могли бы выбрать "
+"Хорошо, отправимся в Окладию по холмам. Обращаю Ваше внимание, что мы могли"
+" бы выбрать "
 "другой путь, через лес, но теперь уже слишком поздно."
 
 #. [event]
@@ -20434,7 +20438,8 @@ msgid ""
 "could have taken a different path through the hills to get to Okladia "
 "instead, but it is too late for that now!"
 msgstr ""
-"Хорошо, отправимся в Окладию через лес. Заметьте, что мы могли бы выбрать "
+"Хорошо, отправимся в Окладию через лес. Обращаю Ваше внимание, что мы могли"
+" бы выбрать "
 "другой путь, по холмам, но теперь уже слишком поздно."
 
 #. [event]
@@ -20454,7 +20459,7 @@ msgid ""
 "We are honest, hardworking people."
 msgstr ""
 "Борцы за свободу? Это хорошо... Только прошу вас не сражаться за свободу "
-"здесь. Мы простые честные труженики."
+"прямо здесь. Мы простые честные труженики."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:224
@@ -20469,14 +20474,14 @@ msgstr "Ты знаешь где живёт Оракул?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:382
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:491
 msgid "Why anyone would want to fight for you?"
-msgstr "Зачем кому-то идти сражаться за тебя?"
+msgstr "А зачем нам за вас сражаться?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:493
 msgid "You have a chance to fight for your freedom."
-msgstr "У вас есть возможность биться за свою свободу."
+msgstr "У вас есть возможность завоевать себе свободу."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:234
@@ -20490,24 +20495,24 @@ msgstr "Возможно, я буду вашим королём."
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
 msgid "In my army you may change your lot."
-msgstr "В моём войске вы можете начать новую жизнь."
+msgstr "В армии можно начать новую жизнь."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:236
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:387
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
 msgid "Why not?"
-msgstr "А почему бы и нет?"
+msgstr "Почему бы и нет?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:238
 msgid "In this forest, we are free already."
-msgstr "В этом лесу нам хватает свободы."
+msgstr "В этом лесу нам достаточно свободы."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:240
 msgid "No kidding. I mean, no kidding, your Majesty."
-msgstr "Не валяйте дурака. В смысле, не валяйте дурака, Ваше Величество."
+msgstr "Не валяй дурака. В смысле, не валяй дурака, Ваше Величество."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:242
@@ -20523,8 +20528,7 @@ msgstr "Новую жизнь? В каком смысле?"
 msgid ""
 "Well, you know, you may earn some gold, and if you are lucky, you may even "
 "became a knight."
-msgstr ""
-"Ну, вы сможете раздобыть золото, а, если повезёт,  можно даже стать рыцарем."
+msgstr "Можно немного разбогатеть, а, если повезёт,  даже стать рыцарем."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:244
@@ -20540,7 +20544,7 @@ msgid ""
 "The best archers earn 45 gold pieces when hired, and twenty gold pieces for "
 "each battle."
 msgstr ""
-"За лучшего лучника я могу заплатить 45 золотых. И по двадцать золотых за "
+"За хорошего лучника я бы дал 45 золотых. А ему по двадцать золотых за "
 "каждое сражение."
 
 #. [event]
@@ -20556,7 +20560,8 @@ msgid ""
 "My lord, will we accept this recruit into our army? It is not a loyal unit, "
 "just a normal Bowman."
 msgstr ""
-"Милорд, мы берём этого рекрута в нашу армию? Это не верный слуга, просто "
+"Милорд, мы действительно берём этого рекрута в нашу армию? Это не верный"
+" слуга, просто "
 "обычный лучник."
 
 #. [event]
@@ -20569,7 +20574,7 @@ msgstr "Боец присоединяется к вам."
 #. wordplay note: say "Roman the Bowman" aloud (it rhymes!)
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:258
 msgid "firstname^Roman"
-msgstr "Роман"
+msgstr "Парис"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:272
@@ -20600,7 +20605,7 @@ msgid ""
 "Porkton. If I lived in that village, I would change its name into something "
 "different. Hogton, for example."
 msgstr ""
-"В смысле, ты не знаешь? Да на юге отсюда, западнее большого села Свинтон. "
+"А вы не знаете? На юге отсюда, западнее большого села Свинтон. "
 "Живи я в этом селе, я бы сменил это название на что-нибудь другое. Ну, хоть "
 "Кабантон."
 
@@ -20645,7 +20650,9 @@ msgstr "А, фритаунский бунтовщик?"
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:322
 msgid "My king, you do not have to ask. You may order us to join you."
-msgstr "Мой король, не спрашивайте. Просто прикажите идти с Вами."
+msgstr ""
+"Мой король, Вам не нужно об этом спрашивать. Просто прикажите, и мы пойдём за"
+" Вами."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:323
@@ -20683,7 +20690,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
 msgid "How should I know? The lords live their own lives, as do we."
-msgstr "Откуда я знаю? У лордов своя жизнь, у нас своя."
+msgstr "Откуда мне знать? У лордов своя жизнь, у нас своя."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:349
@@ -20740,7 +20747,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:357
 msgid "Have luck in your travels, my king. You will need it."
-msgstr "Удачи в пути, мой король. Она тебе понадобится."
+msgstr "Удачи в пути, мой король. Она Вам понадобится."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:370
@@ -20750,7 +20757,7 @@ msgstr "Милорд! Вы, часом, не Гемхальдрик, о кото
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:389
 msgid "It would be honor to join your army."
-msgstr "Для меня будет большой честью присоединиться к твоей армии."
+msgstr "Для меня будет большой честью присоединиться к Вашей армии."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
@@ -20788,7 +20795,7 @@ msgid ""
 "Gold? I thought you were fighting for freedom, not gold. I am so "
 "disappointed."
 msgstr ""
-"Золото? Вроде бы ты сражаешься за свободу, а не за золото. Я весьма "
+"Золото? А говорили, что сражаетесь не за деньги, а за свободу. Я весьма "
 "разочарован."
 
 #. [event]
@@ -20805,7 +20812,7 @@ msgstr "На востоке отсюда."
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
 msgid "East from here. But please, hurry."
-msgstr "На востоке отсюда. Советую тебе поспешить!"
+msgstr "На востоке отсюда. Советую вам поспешить!"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:458
@@ -20822,7 +20829,7 @@ msgid ""
 "The greatest news of all is that you have saved the Oracle. This - this is "
 "so wonderful I can't find proper words to describe it."
 msgstr ""
-"Величайшей новостью для всех нас было то, что ты спас Оракула. Это... это "
+"Величайшей новостью для всех нас было то, что вы спасли Оракула. Это... Это "
 "так прекрасно, что я просто не нахожу слов!"
 
 #. [event]
@@ -20912,7 +20919,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:577
 msgid "Ruvio, please tell me..."
-msgstr "Рувио, скажи пожалуйста..."
+msgstr "Рувио, скажите пожалуйста..."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:583
@@ -20920,7 +20927,7 @@ msgid ""
 "You must be kidding. The woman is so hard to be around I cannot understand "
 "why Yahyazad has a crush on her."
 msgstr ""
-"Да ты шутишь. Рядом с этой женщиной невозможно находиться. Я не понимаю, "
+"Вы шутите. Рядом с этой женщиной невозможно находиться. Я не понимаю, "
 "почему Яхиазад сходит по ней с ума."
 
 #. [event]
@@ -20940,38 +20947,36 @@ msgid ""
 "Nothing really. I think your under... Wesnothian soldiers are starting to - "
 "well, maybe not like - but to tolerate me."
 msgstr ""
-"Ничего серьёзного. Думаю, Ваши убо... веснотские солдаты стали... не то, "
-"чтобы любезнее... скорее терпимее."
+"Ничего серьёзного. Думаю, Ваши убо... веснотские солдаты стали... Не то, "
+"чтобы любезнее... Скорее терпимее ко мне."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:613
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:621
 msgid "What happened that night we left Freetown?"
-msgstr "Что было ночью перед нашим уходом из Фритауна?"
+msgstr "Что случилось ночью перед нашим уходом из Фритауна?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:614
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:622
 msgid "What do you think about Karen?"
-msgstr "Что ты думаешь о Карен?"
+msgstr "Что Вы думаете о Карен?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:615
 msgid "What did the Oracle tell you?"
-msgstr "Что сказала тебе Оракул?"
+msgstr "Что сказала Вам Оракул?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:628
 msgid "I've told you before I'm not going to talk about it."
-msgstr "Я уже сказал, что не буду говорить об этом."
+msgstr "Я уже говорила, что не буду это обсуждать."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:630
 msgid ""
 "She's a cute child. In a few years she could even pretend to be a woman."
-msgstr ""
-"Это премилое дитя. Можно надеяться, что через несколько лет она сможет "
-"считаться женщиной."
+msgstr "Премилое дитя. Через несколько лет её можно будет считать женщиной."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:632
@@ -20982,7 +20987,7 @@ msgid ""
 msgstr ""
 "Когда я была совсем юной, я приходила к ней, и она сказала... Нет, я не могу "
 "тебе рассказать. Это касается только Оракула и меня. Первая часть "
-"пророчества уже сбылась. Что до второй... Думаю, мы скоро узнаем."
+"пророчества уже сбылась. Что до второй... Думаю, скоро всё выяснится."
 
 #. [scenario]: id=24_Fall_of_Freetown
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:3
