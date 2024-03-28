@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-28 09:06+0300\n"
+"PO-Revision-Date: 2024-03-28 09:08+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -14444,7 +14444,7 @@ msgstr ""
 #. [scenario]: id=19b_Entering_Okladia
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:3
 msgid "Entering Okladia"
-msgstr "На входе в Окладию"
+msgstr "Вход в Окладию"
 
 #. [side]: id=Bar O Warhol, type=Akladian Lord
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:48
