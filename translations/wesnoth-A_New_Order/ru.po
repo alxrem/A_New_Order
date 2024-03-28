@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-28 09:08+0300\n"
+"PO-Revision-Date: 2024-03-28 09:32+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -14822,9 +14822,10 @@ msgid ""
 "living there, so long that no one remembered now what the city had once been "
 "named. Now it was just 'the city of the Oracle.'"
 msgstr ""
-"В руинах древнего города жила женщина, которую называли Оракулом. Сменялись "
-"поколения, а пророчица всё жила там, так давно, что уже никто не помнил, как "
-"этот город назывался.Теперь это был просто \"город Оракула\"."
+"Оракулом величали женщину, жившую в руинах древнего города. Сменялись "
+"поколения, но среди руин всегда можно было найти женщину-мага предсказывающею"
+" будущее. Началось это так давно, что уже никто не помнил, как этот город"
+" назывался раньше.Теперь это был просто \"город Оракула\"."
 
 #. [part]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:24
@@ -14839,7 +14840,7 @@ msgstr ""
 "разных армии с разными командирами окружали город. Похоже, их "
 "несогласованность и помогла Оракулу продержаться до сих пор. Каждая армия "
 "вела осаду по своему усмотрению. Но город уже готов был пасть. Мы успели в "
-"самый последний момент"
+"самый последний момент."
 
 #. [side]: id=Matthias Ramon, type=General
 #. [event]
@@ -14865,7 +14866,7 @@ msgid ""
 "few hitpoints of wounded friendly units."
 msgstr ""
 "Этот боец освоил нелёгкий навык врачевания; он может лечить от отравления и "
-"восстанавливать немного здоровья дружественных воинов."
+"немного восстанавливать здоровье дружественных воинов."
 
 #. [heals]: id=M_R_basic_healing
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:95
@@ -15119,8 +15120,7 @@ msgstr "Потом с этим разберётесь. Главное, что в
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1546
 msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
-msgstr ""
-"Ха-ха, человек. Ты хотел сказать что, всё, что останется после нас, ваше."
+msgstr "Ха-ха, человек. Ты хотел сказать, \"всё, что останется после орков\"."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1547
@@ -15181,7 +15181,8 @@ msgstr "Уже идём, сэр!"
 msgid ""
 "The attackers have slain me! Hurry, to my keep, men! You must protect the "
 "Oracle for me in my stead!"
-msgstr "Мне конец! Скорее в крепость, парни! Защищайте Оракула вместо меня!"
+msgstr ""
+"Мне конец! Скорее в крепость, парни! Теперь защита Оракула это ваш долг!"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1660
@@ -15208,7 +15209,8 @@ msgid ""
 "You pronounce that 'The Oracle'... all she needs is a great big 'The' in "
 "front and a capital O. But indeed, where is she?"
 msgstr ""
-"Говори \"Оракул\". Так, чтобы было слышно большую букву \"О\". Но в самом "
+"Говори \"Оракул\". Так, чтобы было ясно, что там большая буква \"О\". Но в"
+" самом "
 "деле, где она?"
 
 #. [event]
@@ -15218,8 +15220,8 @@ msgid ""
 "here. I know who all of you are. Ask your questions and receive the answers, "
 "for I can see everything which may be."
 msgstr ""
-"Я здесь. Мой голос слышит тот, кто хочет слушать. Мне известно, зачем вы "
-"здесь. Мне известно, кто вы. Спрашивайте, и получите ответы. Мне ведомо всё, "
+"Я здесь. Мой голос слышен тому, кто хочет слушать. Мне ведомо, зачем вы "
+"здесь. Известно, кто вы. Спрашивайте, и получите ответы. Я вижу всё, "
 "что может произойти."
 
 #. [event]
@@ -15237,7 +15239,7 @@ msgid ""
 "The answer to this question is the answer to your doubts. Why haven't I "
 "escaped? Why didn't I call someone for help?"
 msgstr ""
-"Разрешение твоих сомнений ответит на твой вопрос. Почему я не убежала? Почему "
+"В ответе на этот вопрос ответ на твои сомнения. Почему я не убежала? Почему "
 "я не позвала на помощь?"
 
 #. [event]
@@ -15253,9 +15255,9 @@ msgid ""
 "crieth when it recalleth the memories of a marvelous past. He shall give "
 "unto thee answers, some of which thou mayest find unwelcome."
 msgstr ""
-"Ищите Деориэна среди развалин великого града, где даже ветер рыдает, "
-"вспоминая о былом великолепии. Он даст тебе ответы, и некоторые тебе будут "
-"не по нраву."
+"Ищите Деориэна среди развалин великого града, о чьём былом великолепии рыдает"
+" даже ветер. Там вы получите ответы на свои вопросы, и не все из них будут"
+" вам по нраву."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1858
@@ -15272,8 +15274,9 @@ msgid ""
 "I am an Oracle. Why should I give straight answers? Why do you think my "
 "answer is insufficient for you? Why do you think I should tell you more?"
 msgstr ""
-"Я Оракул. Разве я должна говорить прямо? Почему ты считаешь, что моих слов "
-"не достаточно? Почему ты считаешь, что мне нужно говорить ещё?"
+"Я Оракул. Почему вы ждёте от меня прямых ответов? Почему считаете, что"
+" сказанного "
+"не достаточно? Чего в моих словах вам не хватает?"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1860
@@ -15290,14 +15293,15 @@ msgid ""
 "first answer is: yea, thou art. The second is: yea, he shall. The third is: "
 "nay, ye never shall."
 msgstr ""
-"Мне уже ведомы твои вопросы, Лорин из Галлора, клана, в чьих сокровищницах "
-"давно уже меньше золота, чем в волосам его дочерей. Первый ответ: да, это "
-"ты. Второй: да, он станет. Третий: нет, ты не станешь."
+"Твои вопросы мне ведомы заранее, Лорин из Галлора, клана, в чьих"
+" сокровищницах "
+"давно уже меньше золота, чем в волосах его дочерей. Первый ответ: да, ты."
+" Второй: да, он станет. Третий: нет, ты не станешь."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1866
 msgid "No! No!  There has to be a better answer!"
-msgstr "Нет! Нет! Должен быть другой ответ!"
+msgstr "Нет! Нет! Ты должна дать другой ответ!"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
@@ -15320,15 +15324,15 @@ msgid ""
 "wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She "
 "will not hear the counsel woman whom is merely God's tool."
 msgstr ""
-"Это всё, что ты хотела сказать? Что ж, знай, что я услышала тебя, что "
+"И это всё, что ты можешь мне сказать? Что ж, знай, что я услышала тебя. "
 "Хэлтинская волчица услышала совет Оракула, божьего гласа на земле. И "
-"пропустила мимо ушей совет от женщины, которая всего лишь игрушка в руке "
-"божьей."
+"пропустила мимо ушей совет от женщины, которая всего лишь игрушка в руце "
+"божией."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1870
 msgid "Let's go, Gawen. We're finished here."
-msgstr "Пойдём, Гевен. Мы закончили."
+msgstr "Пойдём отсюда, Гевен. Мы закончили."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1871
@@ -15337,7 +15341,7 @@ msgid ""
 "important. But why?"
 msgstr ""
 "Я не уловил смысл вашей с ней беседы, но кажется, что это было очень важно. "
-"Почему?"
+"В чём же дело?"
 
 #. [event]
 #. 'import' is an older English term for 'Importance'
@@ -15349,7 +15353,7 @@ msgid ""
 msgstr ""
 "Однажды ты поймёшь всю важность этого, о молодой король. Не побоюсь сказать, "
 "быстрее, чем ты ожидаешь. Тебе желаю удачи в твоих поисках, и предоставляю к "
-"твоим услугам одного из моих сержантов. Служить тебе он будет верно."
+"твоим услугам одного из моих сержантов. Он будет верно служить тебе."
 
 #. [unit]: type=Sergeant, id=John Fasthood
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1881
