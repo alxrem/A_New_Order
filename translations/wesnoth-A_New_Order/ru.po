@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-03-28 09:32+0300\n"
+"PO-Revision-Date: 2024-04-02 08:41+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
 "=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 24.02.0\n"
+"X-Generator: Lokalize 24.02.1\n"
 
 #. [terrain_type]: id=Table
 #: A_New_Order/terrains/terrain.cfg:6
@@ -4607,7 +4607,7 @@ msgid ""
 "Deorien. I decided to trust him."
 msgstr ""
 "Мы вошли в Окладию. Рувио сказал, что он ПОЧТИ уверен, где искать Деориэна. "
-"Я решил ему поверить."
+"Я решил поверить ему на слово."
 
 #. [part]
 #: A_New_Order/scenarios/20_Okladia.cfg:26
@@ -4617,8 +4617,8 @@ msgid ""
 "rebuffed any attempt to talk about her behaviour."
 msgstr ""
 "Лорин вела себя очень странно. Часто она сидела за пределами лагеря, "
-"бесцельно глядя на горизонт. Я волновался за неё, но она пресекала любые "
-"разговоры на эту тему."
+"бесцельно глядя за горизонт. Я пытался проявлять беспокойство, но она"
+" пресекала любые попытки заговорить на эту тему."
 
 #. [part]
 #: A_New_Order/scenarios/20_Okladia.cfg:31
@@ -4628,9 +4628,9 @@ msgid ""
 "might raised vocally by Akladians, they seemed to not care about it as much "
 "as their complaints indicated."
 msgstr ""
-"Акладианы не были рады идти в одном строю с магами, но авторитет Гевена был "
-"выше. Впрочем, он замечал, что, несмотря на все жалобы, их это волновало не "
-"так сильно, как они говорили."
+"Акладианы были недовольны шагать в одном строю с магами, но подчинялись"
+" авторитету Гевена. Тот в свою очередь отмечал, что на самом деле присутствие"
+" магов беспокоило акладиан не так сильно, как они об этом говорили."
 
 #. [part]
 #. spoken by Gawen
@@ -4640,9 +4640,9 @@ msgid ""
 "passed this difficult test. I hope future battles with Grekulak's forces "
 "will also be won."
 msgstr ""
-"Это была моя первая встреча с восставшими мертвецами, и я был рад, что мои "
+"Это была моя первая встреча с ожившими мертвецами. Я был оченб рад, что мои "
 "солдаты выдержали это тяжёлое испытание. Надеюсь, в грядущих битвах с "
-"воинствами Грекулака мы тоже победим."
+"воинствами Грекулака нас тоже ждёт победа."
 
 #. [part]
 #. spoken by Gawen
@@ -4652,9 +4652,9 @@ msgid ""
 "to see her father again. She kissed both me and Lorin - leaving my step-"
 "mother in total dismay."
 msgstr ""
-"Дочь фермера была не так красива, как я ожидал. Она была так счастлива снова "
-"увидеть отца, что расцеловала не только меня, но и Лорин, что привело мою "
-"мачеху в полное смятение."
+"Дочь фермера была не так прекрасна, как я ожидал. Она была так счастлива, что"
+" скоро увидит отца, что расцеловала не только меня, но и Лорин, что привело"
+" мою мачеху в совершенное смятение."
 
 #. [scenario]: id=20_Okladia
 #: A_New_Order/scenarios/20_Okladia.cfg:57
@@ -4728,7 +4728,7 @@ msgstr "Что нам теперь делать, Рувио?"
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:136
 msgid "First, let us find Deorien. And then..."
-msgstr "Сначала давай найдём Деориэна, а потом..."
+msgstr "Сначала найдём Деориэна, а потом..."
 
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:137
@@ -4741,7 +4741,7 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:138
 msgid "Stop it, Lorin."
-msgstr "Прекрати, Лорин."
+msgstr "Прекратите, Лорин."
 
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:139
@@ -4768,7 +4768,7 @@ msgid ""
 "His mother... Gawen's, Haldric's mother... she was my... fiancée. We even "
 "had the date of our wedding fixed."
 msgstr ""
-"Его матери... Матери Гевена, Хальдрика... Она была моей... невестой. Даже "
+"Его матери... Матери Гевена, Хальдрика... Она была моей... Невестой. Даже "
 "день свадьбы был уже назначен."
 
 #. [then]
@@ -4798,8 +4798,8 @@ msgid ""
 "And maybe it's a mistake to tell you this. I loved your mother, Gawen. And I "
 "hated your father. When I look at you, I see her features, not your father's."
 msgstr ""
-"Пожалуй, я не должен был тебе об этом говорить. Я любил твою мать, Гевен. И "
-"ненавидел твоего отца. Когда я смотрю на тебя, я вижу лишь её черты, а не "
+"Пожалуй, я не должен был Вам об этом говорить. Я любил Вашу мать, Гевен. И "
+"ненавидел Вашего отца. Когда я смотрю на вас, я вижу лишь её черты, не "
 "его."
 
 #. [objectives]
@@ -4818,7 +4818,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:169
 msgid "So, shall we go to the ruins of Weldyn?"
-msgstr "Итак,пойдём в руины Вельдина?"
+msgstr "Итак ,пойдём в руины Вельдина?"
 
 #. [event]
 #. [else]
@@ -5044,7 +5044,7 @@ msgid ""
 "Vakladia, and as Haldric he is king of Wesnoth. Wait, did you say - `saved`?"
 msgstr ""
 "Это Гемхальдрик, действительно, но он же Гевен Хагартен, король Вакладии, и "
-"он же Хальдрик, король Веснота. Как вы сказали: \"спасены\"?"
+"он же Хальдрик, король Веснота. Вы сказали, \"спасены\"?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:297
@@ -5134,7 +5134,7 @@ msgstr "Ты знаешь что-нибудь о маге Деориэне?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:377
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
 msgid "Have you heard any interesting news recently?"
-msgstr "Слышал что-нибудь новое?"
+msgstr "Есть какие-то интересные новости?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:315
@@ -5189,7 +5189,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:325
 msgid "Gawen Hagarthen is not dead, You see him now with your own eyes."
-msgstr "Гевен Хагартен не мёртв. Ты видишь его собственными глазами."
+msgstr "Гевен Хагартен не мёртв. Ты смотришь на него собственными глазами."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:326
@@ -5208,7 +5208,7 @@ msgid ""
 msgstr ""
 "Я слышал, что Перьен, король Эскладии, сидит в своей столице под осадой "
 "веснотцев. В Гилькорте между собой поссорились два брата Люк и Гаури. Король "
-"наш, Баффин, решил, что может сам себя позвать на трон Вакладии. Он думает, "
+"наш, Баффин, решил, что может сам себя посадить на трон Вакладии. Он думает, "
 "никто не воспротивится."
 
 #. [event]
@@ -5285,8 +5285,8 @@ msgid ""
 "The greatest news is that you have defeated the ghosts which plagued the "
 "neighbourhood."
 msgstr ""
-"Главная новость это то, что вы перебили призраков, преследовавших всех в "
-"окрестностях."
+"Главная новость это то, что вы перебили призраков, наводивших ужас на всю "
+"окрестность."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:391
@@ -5315,8 +5315,8 @@ msgid ""
 "We live in terror. Terrible things have taken up residence in the ruins east "
 "from here. We are waiting for someone who can free us from fear."
 msgstr ""
-"Мы живём в страхе. Кошмарные твари поселились в руинах на востоке. Мы ждём "
-"кого-то, кто избавит нас от ужаса."
+"Мы живём в страхе. Ужасные твари поселились в руинах на востоке. Мы ждём, что"
+" кто-то придёт и избавит нас от этого кошмара."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:412
@@ -5329,7 +5329,8 @@ msgid ""
 "There is a haunted place to the east. People who go there disappear. We "
 "don't know what happens to them."
 msgstr ""
-"На востоке есть замок с привидениями. Те, кто туда ходят, исчезают. И мы не "
+"На востоке есть замок с привидениями. Все, кто туда уходил, бесследно"
+" исчезли. И мы не "
 "знаем, что с ними."
 
 #. [event]
@@ -5350,7 +5351,7 @@ msgstr "Я хотел бы поговорить с..."
 #: A_New_Order/scenarios/20_Okladia.cfg:473
 #: A_New_Order/scenarios/13_Scouting.cfg:753
 msgid "Ruvio, please tell me.."
-msgstr "Рувио, скажи пожалуйста..."
+msgstr "Рувио, скажите пожалуйста..."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:474
@@ -5361,7 +5362,7 @@ msgstr "Почему Вам так не нравится Лорин?"
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:475
 msgid "Tell me more about you and my mother."
-msgstr "Расскажи ещё о вас с моей матерью."
+msgstr "Расскажите ещё о вас с моей матерью."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:476
@@ -5375,7 +5376,7 @@ msgid ""
 "You must be kidding. That woman is so grating and harsh, I cannot understand "
 "why Yahyazad seems to have a crush on her."
 msgstr ""
-"Ты, наверное, шутишь. Грубая и жестокая женщина. Не могу понять почему "
+"Вы шутите? Грубая и жестокая женщина. Не могу понять почему "
 "Яхиазад сходит по ней с ума."
 
 #. [event]
@@ -5385,13 +5386,13 @@ msgid ""
 "days before our wedding... Gawen, please, don't ask me. It's too painful."
 msgstr ""
 "Рассказывать особо нечего. Я уже говорил, что она была моей невестой. Но за "
-"несколько дней до свадьбы... Гевен, пожалуйста, не спрашивай. Слишком "
+"несколько дней до свадьбы... Гевен, пожалуйста, не спрашивайте. Слишком "
 "мучительные воспоминания."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:482
 msgid "But you have a wife now, and you love her, don't you?"
-msgstr "Но теперь у тебя есть жена и ты любишь её, так?"
+msgstr "Но теперь у Вас есть жена и Вы любите её, так?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:483
@@ -5399,7 +5400,7 @@ msgid ""
 "Yes. I love my wife, and my daughters. But sometimes, just sometimes... I "
 "feel like I've betrayed my first love."
 msgstr ""
-"Да. Я люблю свою жену и дочерей. Но иногда, время от времени... Я чувствую "
+"Да. Я люблю свою жену и дочерей. Но иногда, только иногда... Я чувствую "
 "себя так, будто предал свою первую любовь."
 
 #. [event]
@@ -5444,7 +5445,7 @@ msgid ""
 "An alliance with a mage is a disturbing concept, my lord. But I shall try to "
 "adjust."
 msgstr ""
-"Сотрудничество с магом — неприятная идея, милорд. Но я попробую привыкнуть."
+"Иметь союзником мага — неприятная концепция, милорд. Но я попробую привыкнуть."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:494
@@ -5464,13 +5465,13 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:498
 msgid "Don't worry about that. You will always be my friend."
-msgstr "Не волнуйся об этом. Ты всегда будешь моим другом."
+msgstr "Не волнуйтесь об этом. Вы всегда будете мне другом."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:501
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:603
 msgid "Mother, what's going on?"
-msgstr "Мать, как дела?"
+msgstr "Мать, как Ваши дела?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:504
@@ -5495,12 +5496,12 @@ msgstr "Мать, мы можем поговорить?"
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:511
 msgid "Why do you want to kill Deorien?"
-msgstr "Почему ты хочешь убить Деориэна?"
+msgstr "Почему Вы хотите убить Деориэна?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:512
 msgid "Why have you been so upset recently?"
-msgstr "Чем ты так расстроена в последнее время?"
+msgstr "Чем Вы так расстроены в последнее время?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:513
@@ -5525,7 +5526,7 @@ msgid ""
 "sometimes..."
 msgstr ""
 "Пожалуйста, не спрашивай. Я начала жалеть об одном своём поступке. Порою я "
-"так счастлива... и хоть я знаю, что никакой надежды нет, но иногда..."
+"так счастлива... И хоть я знаю, что никакой надежды нет, но иногда..."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:520
@@ -5541,17 +5542,17 @@ msgstr "Как и я, Гевен. Как и я."
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:526
 msgid "Deorien, can I have a word with you?"
-msgstr "Деориэн, могу я поговорить с тобой?"
+msgstr "Деориэн, могу я поговорить с Вами?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:527
 msgid "Why did you wait until I came to you?"
-msgstr "Зачем ты ждал, когда я приду сам?"
+msgstr "Почему Вы ждали, когда я приду сам?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:528
 msgid "What are your plans for the future?"
-msgstr "Какие у тебя планы?"
+msgstr "Что Вы планируете делать?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:529
@@ -5581,9 +5582,9 @@ msgid ""
 "own sword."
 msgstr ""
 "Потому что я не был уверен, что ты — тот самый. Я должен был увидеть тебя "
-"лично. Кроме того, ты сделал себе имя сам. Прославился одновременно среди "
-"веснотцев и среди акладиан. Всего лишь год назад ты был безымянным "
-"мальчиком. Теперь ты носишь имя, заслуженное на поле боя."
+"лично. Кроме того, ты сам сделал себе имя. Прославился как среди "
+"веснотцев, так и среди акладиан. Всего лишь год назад ты был безымянным "
+"мальчиком. Теперь ты носишь имя, прославленное на поле боя."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:536
@@ -5595,7 +5596,7 @@ msgid ""
 msgstr ""
 "Мы объявим тебя мессией и королём Веснота и Вакладии. Как мессия ты станешь "
 "править всеми акладианами. Надеюсь, и акладианы и веснотцы тебя поддержат. "
-"Затем мы разобьём орков и всех акладиан, которые восстанут против. И наконец "
+"Затем мы разобьём орков и всех акладиан, которые восстанут против. И в итоге "
 "мы остановим вторжение Грекулака."
 
 #. [event]
@@ -5607,8 +5608,9 @@ msgid ""
 "contradict their beliefs. I believe they would quickly declare her a tool of "
 "false God once they would stop to like what she tells them."
 msgstr ""
-"Потому что некоторые вещи можно говорить только когда их готовы услышать. "
-"Видишь ли, юный король, я не знаю, почему акладианы уважают и слушают "
+"Потому что некоторые вещи можно говорить только тогда, когда их готовы"
+" услышать. "
+"Видишь ли, юный король, я не знаю, почему акладианы так почитают и слушают "
 "Оракула. Возможно, дело в том, что предсказания её не противоречат явно их "
 "верованиям. Я думаю, они немедленно объявят её служительницей ложного бога, "
 "как только им перестанут нравиться её слова."
@@ -5616,7 +5618,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:539
 msgid "Then why do you think they won't ignore what she tells them now?"
-msgstr "А почему же ты считаешь, что они прислушаются к ней теперь?"
+msgstr "А почему же Вы считаете, что они прислушаются к ней теперь?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:540
@@ -5626,7 +5628,8 @@ msgid ""
 "to admit that. Mind you, I may be wrong; but I think they simply need "
 "someone to tell them they must change."
 msgstr ""
-"Потому что положение акладиан сейчас безнадёжно. Думаю, многие из них в "
+"Потому что положение акладиан сейчас совершенно безнадёжно. Думаю, многие из"
+" них в "
 "глубине души желают перемен, но в тоже время не готовы их принять. Конечно, "
 "я могу ошибаться, но думаю, им просто нужен кто-то, кто скажет, что пора всё "
 "изменить."
