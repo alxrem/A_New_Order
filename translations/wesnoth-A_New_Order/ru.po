@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-04-03 09:11+0300\n"
+"PO-Revision-Date: 2024-04-04 08:28+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -14575,9 +14575,11 @@ msgid ""
 "was afraid to grow here. This was the Haunted Place, infamous throughout the "
 "surrounding region."
 msgstr ""
-"Только маршевый шаг армии Гевена нарушал гнетущую мёртвую тишину. Даже трава "
+"Только строевой шаг солдат армии Гевена нарушал гнетущую мёртвую тишину. Даже"
+" трава "
 "выглядела призрачной и хрупкой, как будто бы боялась расти здесь. Это были "
-"окрестности замка с привидениями, чья дурная слава была известна всей округе."
+"окрестности замка с привидениями, дурная слава которого была известна всей"
+" округе."
 
 #. [side]: id=Mal-Ulrival, type=Dark Sorcerer
 #. [scenario]: id=21b_Haunted_Place
@@ -14600,12 +14602,12 @@ msgstr "Что бы это ни было, ему не жить."
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:176
 msgid "Ha, more candidates to be turned into mindless slaves! Come to me!"
-msgstr "Ха, вот ещё желающие обратиться в бездумных рабов! Идите-идите!"
+msgstr "Ха-ха, а вот ещё кандидаты в безмозглые рабы! Идите-идите!"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:177
 msgid "I get the impression that, whatever it is, it may already be dead."
-msgstr "У меня такое впечатление, что, что бы это ни было, оно уже не живое."
+msgstr "У меня такое ощущение, что оно уже не живое, что бы это ни было."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:178
@@ -14620,8 +14622,8 @@ msgid ""
 "this occasion to train newly-recruited mages."
 msgstr ""
 "По-видимому, это разведчики Грекулака. Мы должны очистить от них руины. Это "
-"будет довольно просто. И я бы посоветовал воспользоваться случаем, чтобы "
-"потренировать новых магов."
+"будет несложно. И я бы посоветовал воспользоваться этим случаем , чтобы "
+"натренировать новых магов."
 
 #. [objectives]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:207
@@ -14636,7 +14638,7 @@ msgid ""
 "The ruins are cleansed of the foul undead. But we still have more things to "
 "do."
 msgstr ""
-"Руины очищены от мерзких мертвецов. Но нам по-прежнему много ещё нужно "
+"Руины очищены от мерзких мертвецов. Но нам ещё много чего осталось "
 "сделать."
 
 #. [event]
@@ -14667,13 +14669,14 @@ msgid ""
 "can be caused by this small knife."
 msgstr ""
 "Интересно, я раньше не встречала таких как ты. Ты расскажешь мне всё, что "
-"знаешь, или я познакомлю тебя с изысканными видами страданий, которые может "
+"знаешь, или я познакомлю тебя с самыми изысканными видами страданий, которые"
+" может "
 "причинить мой маленький ножик."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:309
 msgid "What are you waiting for, flesh-bag? Come on, try your best!"
-msgstr "Чего ты ждёшь, мясная туша? Давай, покажи, на что способна!"
+msgstr "Чего ты ждёшь, мясная туша? Давай, покажи, на что ты способна!"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:310
@@ -14701,7 +14704,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:313
 msgid "If you think that, you don't know Yahyazad. I bet he would be jealous."
-msgstr "Ты как будто его не знаешь. Он бы точно ревновал."
+msgstr "Вы как будто его совсем не знаете. Он бы совершенно точно ревновал."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:314
@@ -14709,13 +14712,13 @@ msgid ""
 "Stop it! I hate this foul man! My techniques will not work on one who enjoys "
 "it. Die!"
 msgstr ""
-"Прекратите! Ненавижу этого вонючего урода! Мои навыки не работают против "
+"Ну, хватит! Ненавижу этого вонючего урода! Мои навыки не работают против "
 "того, кто ими наслаждается. Умри!"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:321
 msgid "I failed my mission - but I do not fear death!"
-msgstr "Я не справился с поручением, но смерть мне не страшна!"
+msgstr "Я не справился с заданием, но смерть мне не страшна!"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:325
@@ -14732,9 +14735,8 @@ msgid ""
 "your every heartbeat brings you a step closer to your death..."
 msgstr ""
 "Я здесь, чтобы расчистить путь для кое-кого более могущественного, кто "
-"придёт теперь уже совсем скоро. Берегитесь его армии, он подкрадывается всё "
-"ближе с каждой ночью. И с каждым ударом сердца вы становитесь на шаг ближе к "
-"своей смерти..."
+"придёт теперь уже совсем скоро. Бойтесь его армии! Он всё "
+"ближе с каждой ночью! И каждый удар сердца приближает вас на шаг к смерти..."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:341
@@ -14752,7 +14754,7 @@ msgid ""
 "Argh, things aren't working out for me! I'd better go retrieve that artifact "
 "from that camp, once I get a chance..."
 msgstr ""
-"Ах, ты, всё идёт наперекосяк. Надо бы забрать артефакт из лагеря при первой "
+"Ах ты, всё идёт наперекосяк. Надо бы забрать артефакт из лагеря при первой "
 "возможности..."
 
 #. [event]
@@ -14784,7 +14786,7 @@ msgid ""
 "It is quite the powerful artifact, I figure that I am the only mage here "
 "strong enough to wield it. It might be risky for me to do so, though..."
 msgstr ""
-"Это довольно мощный артефакт, думаю, я единственный из нас, у кого хватит "
+"Это довольно мощный артефакт. Думаю, я единственный из нас, у кого хватит "
 "силы справиться с ним. Хотя, даже для меня это может быть рискованно..."
 
 #. [event]
@@ -14795,7 +14797,7 @@ msgstr "Должен ли я взять посох Мал-Ульривала?"
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:478
 msgid "No undead will be able to stand in my way now!"
-msgstr "Теперь ни один восставший мертвец не встанет на моём пути!"
+msgstr "Теперь ни один оживший мертвец не встанет на моём пути!"
 
 #. [event]
 #. not LITERALLY (physically) "getting carried away"; it is a figure of speech meaning "having too much fun":
@@ -14810,8 +14812,8 @@ msgid ""
 "have shattered... I bet if we had found Deorien first, he could have saved "
 "it..."
 msgstr ""
-"Жаль, посох, которым он усиливал свою магию, разбился... Уверен, что если бы "
-"с нами был Деориэн, посох остался бы цел..."
+"Жаль, посох, которым он усиливал свою магию, разбился... Уверен, будь с нами"
+" Деориэн, посох остался бы цел..."
 
 #. [scenario]: id=19c_The_Oracle
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:3
