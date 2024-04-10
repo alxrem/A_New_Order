@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-04-10 20:26+0300\n"
+"PO-Revision-Date: 2024-04-10 20:55+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -1941,7 +1941,7 @@ msgstr "Это совсем не страшно... Вот только б зак
 #: A_New_Order/macros/deaths.cfg:46 A_New_Order/scenarios/23_Trapped.cfg:605
 #: A_New_Order/scenarios/23_Trapped.cfg:618
 msgid "Dunefolk die without fear!"
-msgstr "Люди Дюн умирают без страха!"
+msgstr "Люди Дюн не боятся умирать!"
 
 #. [event]
 #. Gawen's "last breath" message:
@@ -11209,7 +11209,7 @@ msgstr "Нам следует поступить так же! Вызывайте
 #: A_New_Order/scenarios/23_Trapped.cfg:336
 #: A_New_Order/scenarios/23_Trapped.cfg:4
 msgid "Arsham Mahouri"
-msgstr "Аршам Махоури"
+msgstr "Аршам Махури"
 
 #. [side]: id=King Buffin, type=Akladian Lord
 #: A_New_Order/scenarios/23_Trapped.cfg:199
@@ -11235,7 +11235,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/23_Trapped.cfg:18
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
-msgstr "Больше уважения. Перед тобой король Гевен Хальдрик Хагартен."
+msgstr "Проявите больше уважения. Перед вами король Гевен Хальдрик Хагартен."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:19
 msgid ""
@@ -11244,22 +11244,22 @@ msgid ""
 "called 'his majesty' are zero."
 msgstr ""
 "Король? Короли к нам ещё не присоединялись. Если он хочет быть одним из нас, "
-"добро пожаловать, но надо понимать, что никто тут не будет называть его "
+"пожалуйста, но учтите, что никто тут не будет называть его "
 "\"ваше величество\"."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:20
 msgid ""
 "We are not your enemies. If you won't join us, will you at least not attack "
 "us?"
-msgstr "Мы не враги вам. Если не хотите помогать нам, хотя бы не мешайте."
+msgstr "Мы не враги вам. Если не хотите нам помогать, хотя бы не мешайте."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:21
 msgid ""
 "Who said we won't join you? If you can pay, we will readily join your army! "
 "The price is $dunefolk_price gold pieces."
 msgstr ""
-"А кто сказал, что не хотим? Если ты платишь, то мы готовы присоединиться к "
-"твоей армии. Цена — $dunefolk_price золотых."
+"А кто сказал, что не хотим? Если вы платите, то мы готовы присоединиться."
+" Цена — $dunefolk_price золотых."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:29
 msgid "We will pay the $dunefolk_price gold pieces."
@@ -11312,8 +11312,8 @@ msgid ""
 "of Akladians."
 msgstr ""
 "Армия короля Баффина шла прямо за нами, мы почти слышали их дыхание за "
-"спиной. И, словно этого было мало, мы вышли прямо в середину целого "
-"соединения акладиан."
+"спиной. И, словно этого было мало, мы оказались прямо посреди "
+"толпы акладиан."
 
 #. [side]: id=Larkin O Travil, type=Akladian Lord
 #. [event]
@@ -11383,13 +11383,13 @@ msgid ""
 "Okladia is in need - undead have invaded our country, they are razing the "
 "countryside and murdering our people! "
 msgstr ""
-" Окладия в беде! Мертвецы вторглись в наши земли! Они разоряют деревни и "
+"Окладия в беде! Мертвецы вторглись в наши земли! Они разоряют деревни и "
 "убивают наших людей!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:470
 msgid "Without King Buffin, who will lead our army against them?"
-msgstr " Кто же поведёт нашу армию вместо короля Баффина?"
+msgstr "Кто же поведёт нашу армию вместо короля Баффина?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:472
@@ -11417,9 +11417,9 @@ msgid ""
 "fortunate, false Gawen, that I my duty to my people calls me away from "
 "here... for now."
 msgstr ""
-"Мертвецы? Так значит все рассказы, которые я слышал, всё-таки были правдой! "
-"Тебе повезло, фальшивый Гевен, что мой должг перед моими людьми зовёт меня "
-"отсюда... Пока что."
+"Мертвецы? Так значит все рассказы, которые я слышал, были правдой! "
+"Тебе повезло, фальшивый Гевен, что долг перед моими людьми зовёт меня "
+"назад... Пока что."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:480
@@ -11452,7 +11452,7 @@ msgid ""
 "enough. What I saw... I... I don't know if I can even describe it... if I "
 "can bear the task of describing it. "
 msgstr ""
-"Милорд... Гевен, милорд... Прости меня, если я не смогу внятно рассказать. "
+"Милорд... Гевен, милорд... Простите меня, если я не смогу внятно рассказать. "
 "То, что я видел... Я... Не знаю, смогу ли я вообще описать это... Смогу ли я "
 "справиться с такой задачей."
 
@@ -11481,7 +11481,7 @@ msgid ""
 "I am finished! But your leader... before I die, is his name really Gawen "
 "Hagarthen?"
 msgstr ""
-"Мне конец! Но ваш вождь.... скажите, пока я жив, его действительно зовут "
+"Мне конец! Но ваш вождь.... Скажите, пока я жив, его действительно зовут "
 "Гевен Хагартен?"
 
 #. [event]
@@ -11506,13 +11506,13 @@ msgstr ""
 msgid ""
 "I am dying... are you going to try to intimidate me, as your step-mother "
 "used to do?"
-msgstr "Я умираю... Будешь запугивать меня, как любит твоя мачеха?"
+msgstr "Я умираю... Будете запугивать меня, как любит Ваша мачеха?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:554
 msgid "No, noble Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
-"Нет, благородный Ромарио. Для меня было честью с тобой сражаться. Покойся с "
+"Нет, благородный Ромарио. Для меня было честью сражаться с Вами. Покойтесь с "
 "миром."
 
 #. [event]
@@ -11528,8 +11528,8 @@ msgstr "Айре Ромарио"
 msgid ""
 "No, noble Aire Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
-"Нет, благородный Айре Ромарио. Для меня было честью с тобой сражаться. "
-"Покойся с миром."
+"Нет, благородный Айре Ромарио. Для меня было честью сражаться с Вами. "
+"Покойтесь с миром."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:565
@@ -11537,7 +11537,7 @@ msgid ""
 "King Buffin, my uncle, it has been an honour to fight you. You were a tough "
 "opponent."
 msgstr ""
-"Король Баффин, дядя, для меня было честью сразиться с тобой. Ты был сильным "
+"Король Баффин, дядя, для меня было честью сразиться с Вами. Вы были сильным "
 "противником."
 
 #. [event]
@@ -11566,7 +11566,7 @@ msgid ""
 "A king! Ooh, I've never killed a king before. You know, I should feel more "
 "exhilirated."
 msgstr ""
-"Король! О-о, никогда раньше не убивала короля. Знаешь, думала будет "
+"Король! О-о, никогда раньше не убивала короля. Знаете, я думала будет "
 "волнительнее."
 
 #. [event]
@@ -11575,7 +11575,7 @@ msgid ""
 "So you are Lorin from the Galloraes... best sword-arm among Akladian "
 "women... (cough)"
 msgstr ""
-"Так ты Лорин из Галлора... Лучший меч среди акладианских женщин... (кха)"
+"Так Вы Лорин из Галлора... Лучший меч среди акладианских женщин... (кха)"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:573
@@ -11583,8 +11583,8 @@ msgid ""
 "You have heard about me even in Okladia!? That's a pleasant surprise. Now, "
 "tell me, why were you here, and with a large army to boot?"
 msgstr ""
-"Слухи обо мне дошли даже до Окладии? какой приятный сюрприз. Теперь скажи "
-"мне, зачес ты здесь, да ещё с такой огромной армией?"
+"Слухи обо мне дошли даже до Окладии? Какой приятный сюрприз. Теперь скажите "
+"мне, зачем Вы здесь, да ещё с такой огромной армией?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:574
@@ -11602,7 +11602,8 @@ msgid ""
 "rumors about strange things in the eastern part of Okladia. What strange "
 "things?"
 msgstr ""
-"Постой, не умирай пока. Я слышала, что некоторые из твоих людей рассказывали "
+"Постойте, не спешите умирать. Я слышала, что некоторые из Ваших людей"
+" рассказывали "
 "слухи о странных вещах на востоке Окладии. Что там было?"
 
 #. [event]
@@ -11613,8 +11614,8 @@ msgid ""
 "planning on sending some of my army there immediately after finishing with "
 "Vakladia... (cough)"
 msgstr ""
-"Призраки давно умерших, которых снова видели живыми... зомби... Мои "
-"разведчики приходили с противоречивыми докладами. Некоторые из моих лордов "
+"Призраки давно умерших людей, которых снова видели живыми... Зомби... Мои "
+"разведчики возвращались с противоречивыми докладами. Некоторые из моих лордов "
 "исчезли. Я собирался выслать туда часть моей армии сразу, как только закончу "
 "в Вакладии... (кха)"
 
@@ -11630,7 +11631,7 @@ msgid ""
 "takes me, please tell me... are you really Gawen Hagarthen?"
 msgstr ""
 "Мне конец! Смерть в нескольких шагах... Но пока она не забрала меня, "
-"пожалуйста скажи мне... ты правда Гевен Хагартен?"
+"пожалуйста скажи мне... Ты правда Гевен Хагартен?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:583
@@ -11644,15 +11645,15 @@ msgid ""
 "starting a collection of souvenirs from each defeated lord. Hmm... maybe the "
 "ears?"
 msgstr ""
-"Ещё один лорд пал от моей нежной ручки. Мне стоит подумать, не "
-"коллекционировать ли сувениры от каждого убитого лорда. Хм... Может уши?"
+"Ещё один лорд пал от моей нежной ручки. Мне стоит задуматься, не стоит ли"
+" что-нибудь оставлять на память о каждом убитом лорде. Хм... Может уши?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:589
 msgid ""
 "What are you doing with that underling cur, aren't you Lorin of Gallorae?"
 msgstr ""
-"Что ты здесь делаешь вместе с этой убогой швалью, ты разве не Лорин из "
+"Что Вы здесь делаете вместе с этой убогой швалью, Вы разве не Лорин из "
 "Галлора?"
 
 #. [event]
@@ -11661,7 +11662,7 @@ msgid ""
 "Yes, I am. And he is no underling, he is your lord, your king, Gawen "
 "Hagarthen."
 msgstr ""
-"Да, это я. А это не убогий. Это твой господин, твой король Гевен Хагартен."
+"Да, это я. А это не убогий. Это ваш господин, ваш король Гевен Хагартен."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:591
@@ -11674,8 +11675,8 @@ msgid ""
 "We don't really care how underlings die, as long as they do it quickly and "
 "without making too much trouble."
 msgstr ""
-"Нам вообще превать, как дохнут убогие, если они делают это быстро и не "
-"доставляют больших проблем."
+"Нам вообще плевать, как дохнут убогие, если они дохнут быстро и не "
+"очень докучают."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:619
@@ -11683,7 +11684,7 @@ msgid ""
 "See, noble and independent but not-so-smart Dunefolk leader, you could still "
 "be alive and on our side instead of being just another body in our path..."
 msgstr ""
-"Смотри, благородный и независимый, но не слишком умный вождь народа Дюн, мы "
+"Смотри, благородный и независимый, но не слишком умный вождь народа Дюн, ты "
 "мог бы жить и быть на нашей стороне, вместо того, чтобы стать ещё одним "
 "трупом на нашем пути..."
 
@@ -11724,7 +11725,7 @@ msgid ""
 "NO! Gawen Ha... No, you are not him! You are... some underling pretending to "
 "be my beloved nephew! Kill him!"
 msgstr ""
-"НЕТ! Гевен Ха... Нет, ты это не он! Ты... какой-то убогий, который выдаёт "
+"НЕТ! Гевен Ха... Нет, ты это не он! Ты... Какой-то убогий, который выдаёт "
 "себя за моего любимого племянника! Убить его!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:810
@@ -11732,8 +11733,8 @@ msgid ""
 "We will, but not because we welcome you, Buffin of Okladia. Though you are "
 "Hagarthen, nobody has invited you here. But we will discuss that issue later."
 msgstr ""
-"Убьём, но не потому, что признали тебя, Баффин из Окладии. Хоть ты и "
-"Хагартен, тебя никто сюда не приглашал. Обсудим это позже."
+"Убьём, но не потому, что признали Вашу власть, Баффин из Окладии. Хоть Вы и "
+"Хагартен, Вас никто сюда не приглашал. Обсудим это позже."
 
 #. example of full sentence "I hope that with Reumario helping us this won't be as difficult as it might..." etc
 #: A_New_Order/scenarios/23_Trapped.cfg:886
@@ -11753,7 +11754,7 @@ msgid ""
 "I'm afraid this battle may be extremely difficult. We must be prepared for "
 "serious losses, unfortunately."
 msgstr ""
-"Боюсь, что эта битва может быть слишком сложной. К сожалению, надо быть "
+"Боюсь, что эта битва может оказаться слишком сложной. К сожалению, надо быть "
 "готовыми к серьёзным потерям."
 
 #. [objectives]
