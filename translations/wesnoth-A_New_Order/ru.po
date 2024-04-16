@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-04-10 20:55+0300\n"
+"PO-Revision-Date: 2024-04-16 08:39+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -8795,7 +8795,7 @@ msgstr ""
 #: A_New_Order/scenarios/23b_Trapped.cfg:30
 #: A_New_Order/scenarios/23a_Trapped.cfg:32
 msgid "I am not afraid, old hag. I am dying anyway."
-msgstr "Я не боюсь, старая карга. Я всё равно умру."
+msgstr "Я не боюсь, старая ведьма. Я всё равно умру."
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:46
@@ -14501,8 +14501,8 @@ msgid ""
 "Mother, it's enough we have four Akladian armies on our heels. You do not "
 "have to make them even more furious."
 msgstr ""
-"Мама, нам достаточно того, что четыре акладианских армии повисли у нас на "
-"плечах. Ты хочешь ещё посильнее их разозлить?"
+"Мать, нам достаточно того, что четыре акладианских армии повисли у нас на "
+"плечах. Вы хотите ещё сильнее их разозлить?"
 
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:21
@@ -14511,8 +14511,8 @@ msgid ""
 "And who is this niddering stripling, who thinks that by growing a beard he "
 "can start to look like a man, yet hides his mother's skirt?"
 msgstr ""
-"Кто этот болтливый юнец, который думает, что с бородой он выглядит как "
-"мужчина, но прячется за мамкину юбку?"
+"Кто этот болтливый юнец, который думает, что с бородой он выглядит мужчиной,"
+" но прячется за мамкину юбку?"
 
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:22
@@ -14521,7 +14521,7 @@ msgid ""
 "Gawen, he was talking to you. Reumario, I think you have just sealed your "
 "fate."
 msgstr ""
-"Гевен, это он про тебя. Ромарио, я думаю, ты только что решил свою судьбу."
+"Гевен, это он про тебя. Ромарио, я думаю, ты только что выбрал свою судьбу."
 
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:23
@@ -14538,7 +14538,7 @@ msgstr ""
 #: A_New_Order/scenarios/23b_Trapped.cfg:24
 #: A_New_Order/scenarios/23a_Trapped.cfg:26
 msgid " Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
-msgstr "Хи-хи, \"я тебе не нравлюсь\". Гевен, ты удивительный."
+msgstr "Хи-хи, \"я тебе не нравлюсь\". Гевен, ты потрясающий."
 
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:29
@@ -14559,7 +14559,7 @@ msgstr "Умирать можно очень по-разному, Ромарио
 #: A_New_Order/scenarios/23b_Trapped.cfg:32
 #: A_New_Order/scenarios/23a_Trapped.cfg:34
 msgid "Mother, put down that knife! That is an order!"
-msgstr "Мама, опусти нож! Это приказ!"
+msgstr "Мать, опустите нож! Это приказ!"
 
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:33
@@ -22475,7 +22475,7 @@ msgid ""
 "were that flabby, nebbish cur who was crying just looking at my knife."
 msgstr ""
 "Ой, боюсь-боюсь. В Хэлтине? Дай подумать... Ах, да, вспомнила. Ты тот жалкий "
-"дохлый щенок, который разрыдался, как только увидел мой ножик."
+"полудохлый щенок, который разрыдался, как только увидел мой ножик."
 
 #. [event]
 #: A_New_Order/scenarios/23a_Trapped.cfg:25
@@ -22484,8 +22484,8 @@ msgid ""
 "like a lout. If you don't like me, fine, but show that with your sword, not "
 "with your mouth."
 msgstr ""
-"Ромарио, что бы моя мать не говорила тебе, совсем не обязательно вести себя "
-"по-хамски. Я тебе не нравлюсь? Ладно. Но скажи это мечом, а не языком."
+"Ромарио, что бы моя мать не говорила Вам, совсем не обязательно вести себя "
+"по-хамски. Я Вам не нравлюсь? Ладно. Но выразите это мечом, а не словом."
 
 #. [event]
 #: A_New_Order/scenarios/23a_Trapped.cfg:31
