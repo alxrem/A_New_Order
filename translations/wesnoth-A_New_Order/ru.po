@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-04-16 08:48+0400\n"
+"PO-Revision-Date: 2024-04-16 08:50+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -20279,7 +20279,7 @@ msgid ""
 "this is indeed... Gawen Hagarthen, our king! My sword is your sword, my lord!"
 msgstr ""
 "О, Господи! Точно, это же благородный Реме, он бы не стал обманывать! Значит "
-"это и в самом деле... Гевен Хагартен, наш король! Мой меч - Ваш меч, милорд!"
+"это и в самом деле... Гевен Хагартен, наш король! Мой меч — Ваш меч, милорд!"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:32
