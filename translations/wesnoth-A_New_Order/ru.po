@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 08:13 UTC\n"
-"PO-Revision-Date: 2024-04-16 08:44+0400\n"
+"PO-Revision-Date: 2024-04-16 08:48+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -8710,12 +8710,12 @@ msgstr "В западне"
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:18
 msgid "Could it be possible? Lorin? You are alive?"
-msgstr "Да неужели? Лорин? Ты жива?"
+msgstr "Да неужели? Лорин? Вы живы?"
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:19
 msgid "Uhm... Yes. But who exactly are you!?"
-msgstr "Ммм... Да. А ты кто такой?"
+msgstr "Ммм... Да. Но кто Вы такой?"
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:20
@@ -8723,8 +8723,8 @@ msgid ""
 "I am Reumario. We fought at Haeltin. You defeated me, but you let me live. I "
 "am indebted to you. It's a shame I have to fight against you."
 msgstr ""
-"Я Ромарио. Мы сражались в Хэлтине. Ты победила меня, но оставила в живых. Я "
-"перед тобой в долгу. Было бы нечестно снова выступать против тебя."
+"Я Ромарио. Мы сражались в Хэлтине. Вы победили меня, но оставили в живых. Я "
+"перед Вами в долгу. Было бы нечестно снова выступать против Вас."
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:21
@@ -8747,13 +8747,13 @@ msgid ""
 "I won't explain myself to you, Reumario. But I will prove to you in battle, "
 "that I am worthy of the crown of Vakladia."
 msgstr ""
-"Я не собираюсь оправдываться перед тобой, Ромарио. Но докажу тебе в битве, "
+"Я не собираюсь оправдываться перед Вами, Ромарио. Но докажу Вам в битве, "
 "что я достоин короны Вакладии."
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:27
 msgid "Gawen Hagarthen! My king! I am on your side!"
-msgstr "Гевен Хагартен! Мой король! Я на твоей стороне!"
+msgstr "Гевен Хагартен! Мой король! Я на Вашей стороне!"
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:35
@@ -8765,7 +8765,7 @@ msgstr "Гевен Хагартен? Но... Он же мёртв!"
 msgid ""
 "No, he is not. He is alive and he is your rightful king. And what do you "
 "think about that, Reumario?"
-msgstr "Нет, не мёртв. Он жив и он твой законный король. Что думаешь, Ромарио?"
+msgstr "Нет, не мёртв. Он жив и он Ваш законный король. Что думаете, Ромарио?"
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:37
@@ -8805,7 +8805,7 @@ msgstr "Умирать можно по-разному, Ромарио."
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:47
 msgid "Mother, put down that knife! That is an order."
-msgstr "Мама, опусти нож! Это приказ."
+msgstr "Мать, опусти нож! Это приказ."
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:48
