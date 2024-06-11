@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-24 04:41 UTC\n"
-"PO-Revision-Date: 2024-06-11 09:39+0300\n"
+"PO-Revision-Date: 2024-06-11 10:21+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -22155,6 +22155,8 @@ msgid ""
 "Content Note: This campaign contains mature themes, some of which may be "
 "unsuitable for children. Player discretion advised."
 msgstr ""
+"Уведомление: сюжет кампании содержит тяжёлые сцены, не предназначенные для"
+" детей. Вы предупреждены, поступайте по своему усмотрению."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:33
@@ -22251,7 +22253,7 @@ msgstr ""
 "Когда твоя мать умерла, меня избрали из клана Галлора следующей женою твоего "
 "отца. Не знаю, хотел ли он так примириться с кланами, но несомненно он хотел "
 "наследника, который бы не вызывал вопросов у народа. Родить ему такого сына "
-"— был мой долг. Я не смогла. Народ сошёл со старого пути, и Бог от нас "
+"— был мой долг. Я не смогла. Народ сошёл с исконного пути, и Бог от нас "
 "отворотился, как мы отворотились от него. Пресыщенные землями, деньгами и "
 "рабами лорды акладиан теряли армии и земли в боях с убогими."
 
@@ -22565,17 +22567,17 @@ msgstr "Мне плевать, благодаря чему ты сделаешь
 #. [then]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:697
 msgid "Hold on a moment."
-msgstr "Подождём."
+msgstr "Так-так, посмотрим..."
 
 #. [then]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:732
 msgid "...and there you go."
-msgstr "А вот и Вы."
+msgstr "... ну, .вот и всё."
 
 #. [then]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:733
 msgid "Thanks. (*<i>faints</i>*)"
-msgstr "Благодарю. (*<i>теряет сознание</i>*)"
+msgstr "Благодарю Вас. (*<i>теряет сознание</i>*)"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:778
