@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-26 00:31 UTC\n"
-"PO-Revision-Date: 2024-11-18 09:56+0300\n"
+"PO-Revision-Date: 2024-11-18 20:16+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -4705,9 +4705,13 @@ msgstr "... \"интригующей\"?"
 msgid "You see, young Karen--"
 msgstr "Видите ли, юная Карен--"
 
+#: A_New_Order/macros/conversations_support.cfg:190
+msgid "Could you stop it with the “young” please? Just “Karen” is fine."
+msgstr "Не могли бы Вы прекратить говорить «юная»? Достаточно просто «Карен»."
+
 #: A_New_Order/macros/conversations_support.cfg:191
 msgid "All right, you see, just-Karen..."
-msgstr "Хорошо, хорошо, просто Карен..."
+msgstr "Хорошо. Видите ли, просто Карен..."
 
 #: A_New_Order/macros/conversations_support.cfg:192
 msgid "Grrrr..."
@@ -4727,9 +4731,9 @@ msgid ""
 "winning the hearts of women, as I have, you begin to lose interest in the, "
 "how shall I say, “easier” conquests among them. This Lorin, though..."
 msgstr ""
-"Хорошо, хорошо. Как я уже говорил... Когда приобретаешь опыт в искусстве покор"
-"ения женских сердец, как, например, я, начинаешь терять интерес к \"несложным"
-"\", как я это называю, вариантам. А вот Лорин..."
+"Хорошо, хорошо. Как я уже говорил... Когда приобретаешь опыт в искусстве "
+"покорения женских сердец, как, например, я, начинаешь терять интерес к "
+"\"простеньким\", как я это называю, вариантам. А вот Лорин..."
 
 #: A_New_Order/macros/conversations_support.cfg:196
 msgid "...so you see her as more of a challenge, then, is what you're saying?"
@@ -4745,8 +4749,8 @@ msgid ""
 "Oh, um, no particular reason! Hey, is that an orc over there? Sorry, "
 "gottagobye!"
 msgstr ""
-"Ну, м-м-м, ничего конкретного! Эй, что это там такое, орк? Простите, "
-"бегу-бегу-пока!"
+"Ну, м-м-м, ничего конкретного! Эй, что это там такое, орк? Простите, бегу-"
+"бегу-пока!"
 
 #: A_New_Order/macros/conversations_support.cfg:200
 msgid ""
