@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-26 00:31 UTC\n"
-"PO-Revision-Date: 2024-08-26 00:39+0300\n"
+"PO-Revision-Date: 2024-11-18 09:56+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
-"Language-Team: Russian\n"
+"Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 24.05.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 24.08.3\n"
 
 #. [terrain_type]: id=Table
 #: A_New_Order/terrains/terrain.cfg:6
@@ -4727,10 +4727,13 @@ msgid ""
 "winning the hearts of women, as I have, you begin to lose interest in the, "
 "how shall I say, “easier” conquests among them. This Lorin, though..."
 msgstr ""
+"Хорошо, хорошо. Как я уже говорил... Когда приобретаешь опыт в искусстве покор"
+"ения женских сердец, как, например, я, начинаешь терять интерес к \"несложным"
+"\", как я это называю, вариантам. А вот Лорин..."
 
 #: A_New_Order/macros/conversations_support.cfg:196
 msgid "...so you see her as more of a challenge, then, is what you're saying?"
-msgstr "... Вы хотите сказать,что она это серьёзный вызов?"
+msgstr "... Вы хотите сказать,что она — серьёзный вызов?"
 
 #: A_New_Order/macros/conversations_support.cfg:197
 msgid "In a manner of speaking, yes. Now why did you want to know?"
@@ -4742,8 +4745,8 @@ msgid ""
 "Oh, um, no particular reason! Hey, is that an orc over there? Sorry, "
 "gottagobye!"
 msgstr ""
-"Ну, м-м-м, ни за чем конкретно! О, не орк ли это там? Простите, "
-"откланиваюсь, пока!"
+"Ну, м-м-м, ничего конкретного! Эй, что это там такое, орк? Простите, "
+"бегу-бегу-пока!"
 
 #: A_New_Order/macros/conversations_support.cfg:200
 msgid ""
@@ -4759,7 +4762,7 @@ msgstr "Привет, Маджид..."
 
 #: A_New_Order/macros/conversations_support.cfg:205
 msgid "Hello, Karen... why so down? Is it Gawen?"
-msgstr "Привет, Карен... Из-за чего грустишь? Из-за Гевена?"
+msgstr "Привет, Карен... Из-за чего грустите? Из-за Гевена?"
 
 #: A_New_Order/macros/conversations_support.cfg:206
 msgid "It's that obvious, is it?"
@@ -4772,7 +4775,7 @@ msgid ""
 "that young man is having on you."
 msgstr ""
 "Дорогая, даже ящер, которого Лорин подвергла дизоптикации, смог бы заметить, "
-"как на тебя влияет этот молодой человек."
+"как на Вас влияет этот молодой человек."
 
 #: A_New_Order/macros/conversations_support.cfg:209
 msgid "...“Disemopticated”? Is that even a word?"
@@ -4802,7 +4805,7 @@ msgid ""
 "It's like he never even notices me! Sometimes I don't even know why I bother "
 "trying to get his attention..."
 msgstr ""
-"Похоже, он просто не замечает меня! Иногда я просто не понимаю, зачем мне "
+"Похоже, он просто не замечает меня! Иногда я просто не понимаю, зачем я "
 "вообще ищу его внимания..."
 
 #. I want to add some italics for emphasis in here, but don't want to go emphasizing every other word, so I dunno:
