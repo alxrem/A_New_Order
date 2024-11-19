@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-18 03:44 UTC\n"
-"PO-Revision-Date: 2024-11-20 00:44+0300\n"
+"PO-Revision-Date: 2024-11-20 01:00+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -12343,8 +12343,8 @@ msgid ""
 "remember it when I go into exile with your child."
 msgstr ""
 "Но я надеюсь... Что в твоём сердце найдётся милосердие. Я знаю... Что ты "
-"никогда не полюбишь меня... Но... Может быть... Ты хоть ещё один раз "
-"прикоснёшься ко мне, как касался меня той ночью... Я унесу твоё "
+"никогда не полюбишь меня... Но... Может быть... Всего один разок "
+"ты прикоснёшься ко мне так же, как касался той ночью... Я унесу твоё "
 "прикосновение с собой и буду вспоминать его, когда отправлюсь в изгнание с "
 "твоим ребёнком."
 
@@ -12360,15 +12360,14 @@ msgstr ""
 "Не пытайся меня удержать. Ты знаешь, что это невозможно. Ради Вакладии и "
 "Веснота, ради тебя самого, я, Лорин, приказываю тебе забыть меня и твоего "
 "ребёнка. Разве не смешно? Я, Лорин, жертвую собой ради какой-то абстрактной "
-"идеи создания нового единого народа? Посмотри на меня, я смеюсь. Я... Я "
-"смеюсь..."
+"идеи нового единого народа? Посмотри на меня, я смеюсь. Я... Смеюсь..."
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:64
 msgid ""
 "The moments are slowly turning into hours, as I am engulfed by the "
 "darkness..."
-msgstr "Мгновения медленно сливаются в часы, пока меня поглощает тьма..."
+msgstr "Мгновения медленно сливаются в часы, пока меня окутывает тьма..."
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:67
@@ -22512,7 +22511,7 @@ msgstr ""
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:34
 msgid ""
 "Moments slowly lengthen into hours. Hope is slipping through my fingers..."
-msgstr "Мгновения тянутся часами. Надежда ускользает из рук..."
+msgstr "Мгновения медленно сливаются в часы. Надежда утекает сквозь пальцы..."
 
 #. [part]
 #. Lorin speaking to Gawen:
