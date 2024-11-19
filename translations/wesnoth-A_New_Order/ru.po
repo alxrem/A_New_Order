@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-18 03:44 UTC\n"
-"PO-Revision-Date: 2024-11-20 01:00+0300\n"
+"PO-Revision-Date: 2024-11-20 01:54+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.org>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -21973,8 +21973,8 @@ msgid ""
 "the king's whores.' He also sends this..."
 msgstr ""
 "Вот что сказал мой господин, и строжайше приказал мне передать всё слово в "
-"слово: \"Ворота Гэлтина закрыты навсегда как для ублюдков-полукровок, так и "
-"для королевских шлюх\". Ещё он передал..."
+"слово: «Ворота Гэлтина закрыты навсегда как для ублюдков-полукровок, так и "
+"для королевских шлюх. Ещё он передал..."
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:294
@@ -22050,7 +22050,7 @@ msgstr ""
 #. trailing space is intentional, to pad the footnote a bit:
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:340
 msgid "Reach the northern signpost with Gawen Hagarthen "
-msgstr "Гевена Хагартен достиг северного указателя "
+msgstr "Довести Гевена Хагартена до северного указателя "
 
 #. [objectives]
 #. EASY difficulty, so this is more of a hint:
@@ -22539,7 +22539,7 @@ msgid ""
 "Our people came here from the eastern lands long before my birth. Our "
 "people's destiny is to rule the world."
 msgstr ""
-"Народ наш пришел сюда с востока задолго до того, как я родилась. Править "
+"Наш народ пришел сюда с востока задолго до того, как я родилась. Править "
 "миром — вот наше назначение."
 
 #. [part]
@@ -22552,7 +22552,7 @@ msgid ""
 msgstr ""
 "Твой дед растаптывал на поле боя армии убогих и брал на меч их замки. Они "
 "были слабы, а мы — сильны. Разобщены, а мы — едины. Наша судьба дана нам "
-"Богом, они, глупцы, доверились волшебникам и магам. Им было суждено стать "
+"Богом. Они — глупцы — доверились волшебникам и магам. Им было суждено стать "
 "нашими рабами."
 
 #. [part]
@@ -22770,7 +22770,7 @@ msgid ""
 "reach the town and find a medic!"
 msgstr ""
 "На самом деле мачеха. Сейчас нет времени для долгих объяснений. Нам нужно в "
-"город и найти там лекаря!"
+"город к лекарю!"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
